@@ -1,0 +1,434 @@
+# University of Helsinki
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 29</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="PhD" data-deadline="2026-09-07" style="margin-bottom: 1.5em;">
+<h3>University-funded doctoral researcher positions</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-University-funded-doctoral-researcher-positions/1370097857/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Lecturer/Professor" data-deadline="2026-09-09" style="margin-bottom: 1.5em;">
+<h3>Two university lecturers, teaching in Nanjing-Helsinki Institute</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Two-university-lecturers%2C-teaching-in-Nanjing-Helsinki-Institute/1369829657/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Other" data-deadline="2026-09-14" style="margin-bottom: 1.5em;">
+<h3>Arts Fellowship 2027</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Arts-Fellowship-2027/1369203857/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Other" data-deadline="2026-09-14" style="margin-bottom: 1.5em;">
+<h3>Core Fellowship 2027</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Core-Fellowship-2027/1369017257/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Postdoc/Researcher" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Data Stewardship</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Postdoctoral-Researcher-in-Data-Stewardship/1369609457/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="PhD" data-deadline="2026-09-16" style="margin-bottom: 1.5em;">
+<h3>Doctoral Researcher in Bioinformatics/Systems Biology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Doctoral-Researcher-in-BioinformaticsSystems-Biology/1370410757/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Postdoc/Researcher" data-deadline="2026-09-18" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher / Bioinformatician in cancer research</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Postdoctoral-Researcher-Bioinformatician-in-cancer-research/1370670357/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Other" data-deadline="2026-09-18" style="margin-bottom: 1.5em;">
+<h3>Research assistant in Legal History</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Research-assistant-in-Legal-History/1371092957/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="PhD" data-deadline="2026-09-18" style="margin-bottom: 1.5em;">
+<h3>Doctoral Candidate (PhD) in plant community ecology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Doctoral-Candidate-%28PhD%29-in-plant-community-ecology/1369621857/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Lecturer/Professor" data-deadline="2026-09-18" style="margin-bottom: 1.5em;">
+<h3>University Lecturer in Societal Security</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-University-Lecturer-in-Societal-Security/1364912357/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Postdoc/Researcher" data-deadline="2026-09-21" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in translational biomedicine</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Postdoctoral-Researcher-in-translational-biomedicine/1370967957/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Other" data-deadline="2026-09-25" style="margin-bottom: 1.5em;">
+<h3>Director of the Helsinki Collegium for Advanced Studies</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Director-of-the-Helsinki-Collegium-for-Advanced-Studies/1371335657/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Postdoc/Researcher" data-deadline="2026-09-27" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher(s) in Study of Ancient Near East</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Heksinki-Postdoctoral-Researcher%28s%29-in-Study-of-Ancient-Near-East/1370972457/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Postdoc/Researcher" data-deadline="2026-09-27" style="margin-bottom: 1.5em;">
+<h3>University Researcher in the study of Ancient Near East</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-University-Researcher-in-the-study-of-Ancient-Near-East/1370911957/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Lecturer/Professor" data-deadline="2026-09-29" style="margin-bottom: 1.5em;">
+<h3>Assistant / Associate / Professor in Palliative Medicine</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Assistant-Associate-Professor-in-Palliative-Medicine/1370807857/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>University Researcher in Intellectual History</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-University-Researcher-in-Intellectual-History/1371301457/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Legal History</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Postdoctoral-Researcher-in-Legal-History/1371300957/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="PhD" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Doctoral researcher, Effects of biochar - fertilizer combinations on tree seedling growth</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Doctoral-researcher%2C-Effects-of-biochar-fertilizer-combinations-on-tree-seedling-growth/1371101657/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="PhD" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Doctoral researcher in Radiopharmaceutical Chemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Doctoral-researcher-in-Radiopharmaceutical-Chemistry/1370810857/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Ecological Networks and Biodiversity Conservation</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Postdoctoral-Researcher-in-Ecological-Networks-and-Biodiversity-Conservation/1370769357/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Research Fellows in Proteomics: Neurodevelopment, Cancer and Drug Toxicity, 3 positions</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Postdoctoral-Research-Fellows-in-Proteomics-Neurodevelopment%2C-Cancer-and-Drug-Toxicity%2C-3-positions/1370111857/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Other" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Scientist / Senior Scientist in Mass Spectrometry-based Proteome Research</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Scientist-Senior-Scientist-in-Mass-Spectrometry-based-Proteome-Research/1369699657/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in microbiology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Postdoctoral-researcher-in-microbiology/1369649757/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="PhD" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Doctoral Researcher (PhD student) in Butterfly Ecology and Climate Change across Europe</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Doctoral-Researcher-%28PhD-student%29-in-Butterfly-Ecology-and-Climate-Change-across-Europe/1369608257/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Lecturer/Professor" data-deadline="2026-10-03" style="margin-bottom: 1.5em;">
+<h3>University Lecturer in Digital Humanities</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-University-Lecturer-in-Digital-Humanities/1370930757/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Other" data-deadline="2026-10-05" style="margin-bottom: 1.5em;">
+<h3>Director, Helsinki Institute of Physics (HIP)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Director%2C-Helsinki-Institute-of-Physics-%28HIP%29/1371284057/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Lecturer/Professor" data-deadline="2026-10-06" style="margin-bottom: 1.5em;">
+<h3>Professor/Assistant/Associate Professor, governance of food security and pharmaceutical preparedness</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-ProfessorAssistantAssociate-Professor%2C-governance-of-food-security-and-pharmaceutical-preparedness/1370949257/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Lecturer/Professor" data-deadline="2026-10-12" style="margin-bottom: 1.5em;">
+<h3>University Lecturer in Crop science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-University-Lecturer-in-Crop-science/1371353857/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-12</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Helsinki" data-type="Lecturer/Professor" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Professor / Associate or Assistant Professor (tenure track) in Geology and Mineralogy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://jobs.helsinki.fi/job/Helsinki-Professor-Associate-or-Assistant-Professor-%28tenure-track%29-in-Geology-and-Mineralogy/1370974557/?feedId=350602&amp;utm_source=CareerSite_UniversityOfHelsinki">View job posting</a></li>
+  <li><strong>University:</strong> University of Helsinki</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

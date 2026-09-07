@@ -1,0 +1,18 @@
+# Finland
+
+```{toctree}
+:caption: Universities in Finland
+:maxdepth: 1
+
+aalto
+abo
+uef
+helsinki
+lut
+jyvaskyla
+lapland
+oulu
+tampere
+turku
+vaasa
+```

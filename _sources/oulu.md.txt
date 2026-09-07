@@ -1,0 +1,230 @@
+# University of Oulu
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 12</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Finland" data-university="University of Oulu" data-type="Other" data-deadline="2026-09-20" style="margin-bottom: 1.5em;">
+<h3>Tutkijatohtori tai yliopistotutkija, Kliininen lääketiede</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://oulunyliopisto.varbi.com/en/what:job/jobID:960482/">View job posting</a></li>
+  <li><strong>University:</strong> University of Oulu</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Oulu" data-type="Other" data-deadline="2026-09-13" style="margin-bottom: 1.5em;">
+<h3>Projektitutkija, Prosessimetallurgia, Teknillinen tiedekunta</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://oulunyliopisto.varbi.com/en/what:job/jobID:937628/">View job posting</a></li>
+  <li><strong>University:</strong> University of Oulu</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-13</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Oulu" data-type="Other" data-deadline="2026-09-21" style="margin-bottom: 1.5em;">
+<h3>Rehtori</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://oulunyliopisto.varbi.com/en/what:job/jobID:962925/">View job posting</a></li>
+  <li><strong>University:</strong> University of Oulu</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Oulu" data-type="Postdoc/Researcher" data-deadline="2026-09-11" style="margin-bottom: 1.5em;">
+<h3>Senior researcher, Oulanka Research Station, Infrastructure Unit</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://oulunyliopisto.varbi.com/en/what:job/jobID:961354/">View job posting</a></li>
+  <li><strong>University:</strong> University of Oulu</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Oulu" data-type="Lecturer/Professor" data-deadline="2026-09-20" style="margin-bottom: 1.5em;">
+<h3>Professor of Cariology, Endodontology and Paediatric Dentistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://oulunyliopisto.varbi.com/en/what:job/jobID:961806/">View job posting</a></li>
+  <li><strong>University:</strong> University of Oulu</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Oulu" data-type="Lecturer/Professor" data-deadline="2026-09-20" style="margin-bottom: 1.5em;">
+<h3>Professor of Psychiatry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://oulunyliopisto.varbi.com/en/what:job/jobID:920173/">View job posting</a></li>
+  <li><strong>University:</strong> University of Oulu</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Oulu" data-type="Other" data-deadline="2026-09-13" style="margin-bottom: 1.5em;">
+<h3>Yliopistonlehtori, varhaiskasvatus, kasvatustieteiden ja psykologian tiedekunta</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://oulunyliopisto.varbi.com/en/what:job/jobID:958278/">View job posting</a></li>
+  <li><strong>University:</strong> University of Oulu</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-13</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Oulu" data-type="Other" data-deadline="2026-09-20" style="margin-bottom: 1.5em;">
+<h3>Väitöskirjatutkija, Psykologia</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://oulunyliopisto.varbi.com/en/what:job/jobID:958305/">View job posting</a></li>
+  <li><strong>University:</strong> University of Oulu</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Oulu" data-type="PhD" data-deadline="2026-09-13" style="margin-bottom: 1.5em;">
+<h3>Doctoral Researcher in health sciences</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://oulunyliopisto.varbi.com/en/what:job/jobID:798680/">View job posting</a></li>
+  <li><strong>University:</strong> University of Oulu</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-13</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Oulu" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher, Geography, Faculty of Science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://oulunyliopisto.varbi.com/en/what:job/jobID:957102/">View job posting</a></li>
+  <li><strong>University:</strong> University of Oulu</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Oulu" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher, in the FRONT research programme</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://oulunyliopisto.varbi.com/en/what:job/jobID:958304/">View job posting</a></li>
+  <li><strong>University:</strong> University of Oulu</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Finland" data-university="University of Oulu" data-type="PhD" data-deadline="2026-09-11" style="margin-bottom: 1.5em;">
+<h3>Doctoral Researcher, In-situ and Operando Spectroscopy and Scattering Techniques for Oxygen Evolution Reaction Mechanism Studies, Faculty of Science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://oulunyliopisto.varbi.com/en/what:job/jobID:957902/">View job posting</a></li>
+  <li><strong>University:</strong> University of Oulu</li>
+  <li><strong>Country:</strong> Finland</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-11</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

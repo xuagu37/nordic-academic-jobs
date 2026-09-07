@@ -1,0 +1,242 @@
+# Luleå University of Technology
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 13</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Sweden" data-university="Luleå University of Technology" data-type="PhD" data-deadline="2026-09-07" style="margin-bottom: 1.5em;">
+<h3>PhD in Electrical Power Engineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10461#item-10461">View job posting</a></li>
+  <li><strong>University:</strong> Luleå University of Technology</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Luleå University of Technology" data-type="Postdoc/Researcher" data-deadline="2026-09-09" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Robotics and Artificial Intelligence</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10476#item-10476">View job posting</a></li>
+  <li><strong>University:</strong> Luleå University of Technology</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Luleå University of Technology" data-type="Postdoc/Researcher" data-deadline="2026-09-09" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Robotics and Artificial Intelligence</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10478#item-10478">View job posting</a></li>
+  <li><strong>University:</strong> Luleå University of Technology</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Luleå University of Technology" data-type="Postdoc/Researcher" data-deadline="2026-09-09" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Robotics and Artificial Intelligence</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10480#item-10480">View job posting</a></li>
+  <li><strong>University:</strong> Luleå University of Technology</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Luleå University of Technology" data-type="Lecturer/Professor" data-deadline="2026-09-14" style="margin-bottom: 1.5em;">
+<h3>Professor and Head of subject in Production Systems</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10458#item-10458">View job posting</a></li>
+  <li><strong>University:</strong> Luleå University of Technology</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Luleå University of Technology" data-type="Lecturer/Professor" data-deadline="2026-09-16" style="margin-bottom: 1.5em;">
+<h3>Associate senior lecturer in electric power engineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10421#item-10421">View job posting</a></li>
+  <li><strong>University:</strong> Luleå University of Technology</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Luleå University of Technology" data-type="PhD" data-deadline="2026-09-20" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Mining and Rock Engineering with special focus on underground hydrogen storage</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10486#item-10486">View job posting</a></li>
+  <li><strong>University:</strong> Luleå University of Technology</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Luleå University of Technology" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in Robotics and Artificial Intelligence WASP</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10083#item-10083">View job posting</a></li>
+  <li><strong>University:</strong> Luleå University of Technology</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Luleå University of Technology" data-type="Lecturer/Professor" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Associate professor in electric power engineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10402#item-10402">View job posting</a></li>
+  <li><strong>University:</strong> Luleå University of Technology</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Luleå University of Technology" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Automatic Control with Focus on Ultra-sound and Hyperspectral Based Sensing</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10514#item-10514">View job posting</a></li>
+  <li><strong>University:</strong> Luleå University of Technology</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Luleå University of Technology" data-type="PhD" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Applied Geophysics focusing on natural hydrogen exploration in Norrbotten County</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10518#item-10518">View job posting</a></li>
+  <li><strong>University:</strong> Luleå University of Technology</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Luleå University of Technology" data-type="PhD" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Robotics and Artificial Intelligence</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10512#item-10512">View job posting</a></li>
+  <li><strong>University:</strong> Luleå University of Technology</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Luleå University of Technology" data-type="PhD" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Robotics and Artificial Intelligence</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.ltu.se/en/about-the-university/work-with-us/job-vacancies?rmjob=10516#item-10516">View job posting</a></li>
+  <li><strong>University:</strong> Luleå University of Technology</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

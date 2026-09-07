@@ -1,0 +1,15 @@
+# Denmark
+
+```{toctree}
+:caption: Universities in Denmark
+:maxdepth: 1
+
+aalborg
+aarhus
+cbs
+copenhagen
+dtu
+itu
+roskilde
+sdu
+```

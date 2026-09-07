@@ -1,0 +1,146 @@
+# Stockholm School of Economics
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 5</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Sweden" data-university="Stockholm School of Economics" data-type="Lecturer/Professor" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor (Tenure Track) Position in Information Systems and Innovation Management with a focus on Artificial Intelligence – House of Innovation, Stockholm School of Economics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="http://jobs.hhs.se/en/job/stockholm/assistant_professor_tenure_track_position_in_information_systems_and_innovation_management_with_a_focus_on_artificial_intelligence__house_of_innovation_stockholm_school_of_economics_-964923.html">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm School of Economics</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm School of Economics" data-type="Other" data-deadline="2026-09-13" style="margin-bottom: 1.5em;">
+<h3>Project Manager – Academic Ceremonies to the Stockholm School of Economics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="http://jobs.hhs.se/en/job/stockholm/project_manager__academic_ceremoniesto_the_stockholm_school_of_economics-959789.html">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm School of Economics</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-13</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm School of Economics" data-type="Lecturer/Professor" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Tenure track faculty position in HRM, Leadership, Organization Studies or Organizational Behaviour</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="http://jobs.hhs.se/en/job/stockholm/tenure_track_faculty_position_in_hrm_leadership_organization_studies_or_organizational_behaviour-950168.html">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm School of Economics</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm School of Economics" data-type="Other" data-deadline="2026-09-13" style="margin-bottom: 1.5em;">
+<h3>Executive Director to Center for Art &amp; Innovation at Stockholm School of Economics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="http://jobs.hhs.se/en/job/stockholm/executive_director_to_center_for_art__innovation_at_stockholm_school_of_economics-947649.html">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm School of Economics</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-13</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm School of Economics" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Research Assistants and Teaching Assistants – House of Innovation, Stockholm School of Economics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="http://jobs.hhs.se/en/job/stockholm/research_assistants_and_teaching_assistants__house_of_innovation_stockholm_school_of_economics_-878378.html">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm School of Economics</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

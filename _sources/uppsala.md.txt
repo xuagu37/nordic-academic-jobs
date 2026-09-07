@@ -1,0 +1,914 @@
+# Uppsala University
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 69</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Lecturer/Professor" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Professor in Respiratory Medicine, Combined with a Position as Specialist Physician at Uppsala University Hospital</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=888099">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Lecturer/Professor" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Professor in Medical Bacteriology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=909639">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Lecturer/Professor" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Professor of Political Science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=923652">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-14" style="margin-bottom: 1.5em;">
+<h3>Lektor i socialt arbete förenad med anställning som kurator</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=924172">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Lecturer/Professor" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Temporary Lecturer in Interface programming with a User Perspective</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=929643">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-21" style="margin-bottom: 1.5em;">
+<h3>Studentambassadör</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=935374">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Lecturer/Professor" data-deadline="2026-10-05" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Physics specialising in Quantum Information Theory</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=945617">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>PhD student in core optimisation using machine learning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=947191">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-07" style="margin-bottom: 1.5em;">
+<h3>Studentfunktionärer till vetenskapsfestivalen SciFest</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=947320">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-09-11" style="margin-bottom: 1.5em;">
+<h3>PhD student in Chemistry with specialization in Organic Chemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=949556">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-09-11" style="margin-bottom: 1.5em;">
+<h3>MSCA Doctoral Student in SecReSy4You with a Focus on Secure Control Systems under Uncertainty</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=951537">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Environmental Law specialising in nuclear power</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=953285">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>International Visiting Researchers, Centre of Excellence for The World in the Viking Age (WIVA) Spring 2027</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=954663">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Postdoc/Researcher" data-deadline="2026-09-24" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral fellowship in medical research</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=957632">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-24</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Postdoc/Researcher" data-deadline="2026-09-24" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral fellowship in clinical research</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=957663">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-24</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Postdoc/Researcher" data-deadline="2026-09-24" style="margin-bottom: 1.5em;">
+<h3>postdoctoral fellowship in neurological research</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=957665">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-24</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Postdoc/Researcher" data-deadline="2026-09-24" style="margin-bottom: 1.5em;">
+<h3>postdoctoral fellowship in cardiovascular disease</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=957666">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-24</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-09-11" style="margin-bottom: 1.5em;">
+<h3>PhD student in Multimodal Machine Learning for Energy Storage Materials</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=958419">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-22" style="margin-bottom: 1.5em;">
+<h3>Amanuens vid Sociologiska institutionen</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=959096">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-22" style="margin-bottom: 1.5em;">
+<h3>Administrativ chef till Institutionen för informationsteknologi</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=959207">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-09-21" style="margin-bottom: 1.5em;">
+<h3>PhD position in Microbiology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=959399">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>PhD student in nuclear fuel performance modelling using machine learning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=959437">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-09-16" style="margin-bottom: 1.5em;">
+<h3>Doctoral (PhD) Position in Solar Cell Technology with focus on Nano-Optics for Agrivoltaics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=959448">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-10" style="margin-bottom: 1.5em;">
+<h3>Research assistant in translational immunology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=959453">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-11" style="margin-bottom: 1.5em;">
+<h3>Research Assistant</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=959682">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-09-18" style="margin-bottom: 1.5em;">
+<h3>PhD student in nature-inspired biocarbon–enzyme composites for PFAS remediation</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=960041">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Postdoc/Researcher" data-deadline="2026-09-09" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Multi-Omics and Machine Learning for Precision Medicine in Pediatric Leukemia</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=960141">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-10" style="margin-bottom: 1.5em;">
+<h3>Doktorand i vaskulärbiologi</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=960212">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>PhD student in Hydrology with a focus on Flow and Transport in Fractured Rocks</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=960428">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-21" style="margin-bottom: 1.5em;">
+<h3>Projektledare till Lokalprojektenheten</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=960486">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computational Materials Chemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=960660">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-11" style="margin-bottom: 1.5em;">
+<h3>Utredare med fokus på teknologifaciliterat våld till NCK</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=960732">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-11" style="margin-bottom: 1.5em;">
+<h3>Säkerhetsanalytiker</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=960789">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-10" style="margin-bottom: 1.5em;">
+<h3>Up to 30 teaching assistants in Computing Science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=960945">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-10" style="margin-bottom: 1.5em;">
+<h3>Substitute as Research Assistant at the National Microprobe Laboratory</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=960948">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-10-16" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in brain tumor biology and treatment resistance</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=961348">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Postdoc/Researcher" data-deadline="2026-09-25" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Pharmacokinetic-Pharmacodynamic Modelling oncology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=961355">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-16" style="margin-bottom: 1.5em;">
+<h3>Forskare</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=961368">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-09-24" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Science with a focus on extracellular vesicles and haemostasis in assisted reproduction</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=961661">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-24</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-09-21" style="margin-bottom: 1.5em;">
+<h3>PhD position in Materials Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=961716">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-11-15" style="margin-bottom: 1.5em;">
+<h3>PhD student focusing on Scalable Quantum Program Verification</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=961891">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-07" style="margin-bottom: 1.5em;">
+<h3>Forskningsassistent</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=961940">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-09" style="margin-bottom: 1.5em;">
+<h3>Receptionist</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=961992">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="PhD" data-deadline="2026-09-23" style="margin-bottom: 1.5em;">
+<h3>Doctoral (Phd) position in Real Time simulation for electrified flexible industry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962041">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-23</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Ekonom</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=962057">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-11" style="margin-bottom: 1.5em;">
+<h3>Kursadministratör</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=962079">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-07" style="margin-bottom: 1.5em;">
+<h3>Forskare IBF</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=962080">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in Halide Solid Electrolytes: Ionic Transport and Interfacial Stability</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962114">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-08" style="margin-bottom: 1.5em;">
+<h3>Research Assistant</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962173">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-10" style="margin-bottom: 1.5em;">
+<h3>Up to 4 teaching assistants in Computer Systems</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962294">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Postdoc/Researcher" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in AI-Driven Modelling of High-Entropy Electrolytes</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962371">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Research Assistant</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962445">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-10" style="margin-bottom: 1.5em;">
+<h3>One teaching assistant to Division Vi3</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962488">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-18" style="margin-bottom: 1.5em;">
+<h3>Research assistant in RNA Dynamics with focus on microRNA</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=962602">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-22" style="margin-bottom: 1.5em;">
+<h3>Verksamhetscontroller</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=962640">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-16" style="margin-bottom: 1.5em;">
+<h3>Ekonom 75%</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=962768">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-08" style="margin-bottom: 1.5em;">
+<h3>Amanuens till Kemi Ångström</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=962833">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Teknat-ambassadör</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=963420">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-18" style="margin-bottom: 1.5em;">
+<h3>Studentmedarbetare till sociala medier</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=963463">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-14" style="margin-bottom: 1.5em;">
+<h3>Teaching Assistants (Amanuens) within development of photocatalytic metal organic frameworks and related materials</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=963590">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Biblioteksassistent</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=964412">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Forskningsassistent</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=964737">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-17" style="margin-bottom: 1.5em;">
+<h3>Forskare</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=964755">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-17</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Amanuens</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=964788">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-25" style="margin-bottom: 1.5em;">
+<h3>Ekonom</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=965231">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-10" style="margin-bottom: 1.5em;">
+<h3>Teaching assistant/Amanuens</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=965298">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Postdoc/Researcher" data-deadline="2026-09-16" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in AI-guided mechanistic understanding of coupled redox–dissolution pathways in multi-metal systems</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/en/about-uu/join-us/jobs-and-vacancies/job-details?query=965401">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-17" style="margin-bottom: 1.5em;">
+<h3>Forskningsassistent i Avancerad läkemedelstillförsel</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=965736">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-17</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Uppsala University" data-type="Other" data-deadline="2026-09-24" style="margin-bottom: 1.5em;">
+<h3>Forskare i innovationsledning för samhällsomställning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.uu.se/om-uu/jobba-hos-oss/lediga-jobb/jobbannons?query=965849">View job posting</a></li>
+  <li><strong>University:</strong> Uppsala University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-24</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

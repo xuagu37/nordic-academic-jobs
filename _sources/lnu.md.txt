@@ -1,0 +1,110 @@
+# Linnaeus University
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 2</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Sweden" data-university="Linnaeus University" data-type="PhD" data-deadline="2026-09-13" style="margin-bottom: 1.5em;">
+<h3>PhD position in health sciences specialising in health informatics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I009/613/job?site=7&amp;lang=UK&amp;validator=696d86b542bf9f7d3a3da97c96c9eb28&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;job_id=9267">View job posting</a></li>
+  <li><strong>University:</strong> Linnaeus University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-13</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Linnaeus University" data-type="Other" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>Project assistant in Marine Microbial Ecology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I009/613/job?site=7&amp;lang=UK&amp;validator=696d86b542bf9f7d3a3da97c96c9eb28&amp;ref=https%3A%2F%2Fwww.google.com%2F&amp;job_id=9276">View job posting</a></li>
+  <li><strong>University:</strong> Linnaeus University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

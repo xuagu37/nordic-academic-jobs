@@ -1,0 +1,962 @@
+# University of Southern Denmark
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 73</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Lecturer/Professor" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Operations and Supply Chain Digitalisation</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4245">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>SDU&#x27;s popular Reels Team is looking for an international student assistant in Sønderborg</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4253">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Studentermedhjælper til kommunikation og udgivelser</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4263">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Postdoc/Researcher" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Postdoc Position in Materials Chemistry at the Mads Clausen Institute, The University of Southern Denmark in Sønderborg, Denmark</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4151">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Ekstern lektor i Neurologi ved Esbjerg &amp; Grindsted Sygehus, IRS, SDU</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4259">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Studierelevant job med ansvar: Bliv studentermedhjælp i Uddannelsesadministrationen SBS/SAMF</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4262">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>AC-fuldmægtig uddannelseskoordinator til Laboratoriet for Kliniske Færdigheder</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4265">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Har du lyst til at gøre en forskel for dine medstuderende?</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4266">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Afdelingsleder for Presse &amp; Formidling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4267">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>SDU IT søger 3 IT-supporterelever til SDU Odense</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4268">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="PhD" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>PhD Position in Material Chemistry at the Mads Clausen Institute – Sønderborg</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4133">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Student Assistant — Communication &amp; Coordination, SDU Climate- Wise Week</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4222">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Student Assistant — Energy &amp; Environment, SDU Climate-Wise Week</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4223">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Student Assistant to support our research activities in the field of Capacitor development</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4241">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>AC-TAP til gruppen RNA-splicing and disease</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4256">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Studentermedhjælper til EdHub, Det Sundhedsvidenskabelige Fakultet</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4232">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Lecturer/Professor" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Tenure-track Assistant Professorship at the Hans Christian Andersen Centre with a Focus on Digital Humanities, Textual Genesis and Nineteenth-Century Literature</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4250">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Senior Research Adviser for EU, International Funding, Innovation and Impact, Faculty of Health Sciences</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4252">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Instruktor til opgaveregning på Matematik holdene, Mads Clausen Instituttet, Det Tekniske Fakultet, Syddansk Universitet</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4254">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Studienævnssekretær til uddannelseskvalitet og studienævnsbetjening på Det Naturvidenskabelige Fakultet</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4255">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>SDU Startup Station søger en udadvendt studentermedhjælper</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4257">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Studentermedhjælper til SDU IT Support i Sønderborg</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4249">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Lecturer/Professor" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Assistant, Tenure-Track Assistant, and Associate Professorships in Software Engineering and Software Technology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4220">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Studentermedhjælper til data- og kommunikationsopgaver i SDU RIO: Team Collaboration &amp; SDU Startup Station</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4242">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Lecturer/Professor" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in International Implementation of Musculoskeletal Treatment Programmes (Part-Time)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4246">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Fagligt dedikerede medarbejdere til ny SPS-rådgivning på Syddansk Universitet</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4247">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Kursuskoordinator til SDU HR, Arbejdsmiljø og Udvikling på SDU.</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4248">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Instruktor til kurset Generalisttysk</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4233">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Postdoc/Researcher" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Position in Operator Algebras (2 Years)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4235">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Teaching Assistant for Semester Project 1 Mechanical Engineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4239">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Postdoc/Researcher" data-deadline="2026-09-10" style="margin-bottom: 1.5em;">
+<h3>Postdoc in material flow analysis and resource management</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4243">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Systemadministrator til Linux, platforme og forskningsunderstøttelse</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4219">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Administrativ HK-medarbejder søges til spændende tidsbegrænset stilling i Service og Logistik</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4230">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Lecturer/Professor" data-deadline="2026-09-22" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in ‘Nanoscale morphology of organic thin films’</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4236">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Lecturer/Professor" data-deadline="2026-09-22" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in ‘Oxide semiconductors for photovoltaic applications’</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4237">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Studentermedhjælpere søges til forskningsformidling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4231">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Laborantpraktikant ved Biologisk Institut, SDU Odense</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4215">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Laborantpraktikant ved Biologisk Institut (Nordcee), SDU Odense</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4221">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Engineer assistant in Unmanned Aerial Systems (drones)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4209">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>SDU’s studentermedie RUST søger journalistisk redaktør</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4214">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Indkøber til Det Tekniske Fakultet</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4218">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Lecturer/Professor" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Re-announcement: Post-Doctoral and Assistant Professor Positions in Mechatronics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3983">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>CLAIR - Center for AI, Law and Robotics søger en studentermedhjælper</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/3990">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in Clinical and Preventive Odontology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4192">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Lecturer/Professor" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Assistant Professors and/or Associate Professors in Clinical and Preventive Odontology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4193">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Sektionssupport til Institut Mekanik og Elektronik i Odense</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4204">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="PhD" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Institut for Sundhedstjenesteforskning indkalder hermed interessetilkendegivelser til en ph.d.-stilling ved Forskningsenheden for Sundhedsfremme (SUND) og Center for Landdistriktsforskning (CLF -SAMF).</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4207">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="2026-10-05" style="margin-bottom: 1.5em;">
+<h3>Associate Professorship (permanent) in Public Administration</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4167">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="PhD" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Artificial Intelligence</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4203">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Postdoc/Researcher" data-deadline="2026-09-07" style="margin-bottom: 1.5em;">
+<h3>Postdoc Position in Quantized Reinforcement Learning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4211">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="PhD" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>PhD Position in 3D Concrete Printing for Low-Carbon Buildings</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4195">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="PhD" data-deadline="2026-11-15" style="margin-bottom: 1.5em;">
+<h3>PhD Position in Data-driven Critical Raw Material Supply Chain Resilience</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4205">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in Regenerative Medicine</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4210">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD Position in High Performance Organic Photovoltaics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4194">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Postdoc/Researcher" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Microbiome Bioinformatics Workflows</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4197">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Postdoc/Researcher" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Host-Microbiome Multi-omic Data Science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4198">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Postdoc/Researcher" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Position in Multiphysics Modelling of Bubble Transport and Electrochemical Processes in Alkaline Electrolysers</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4200">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Ekstern lektor til Selskabsret</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4182">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="PhD" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>PhD Positions in Autonomous Drone Flight in Confined Spaces for Wind Turbine Inspection</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4190">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Postdoc/Researcher" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Postdoc Positions in Autonomous Drone Flight in Confined Spaces for Wind Turbine Inspection</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4191">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Lecturer/Professor" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor Position in Naval Architecture and Marine Engineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4187">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Lecturer/Professor" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Tenure-Track Assistant Professor / Associate Professor in AI-Driven SW Specification, Development, Verification and Validation</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4106">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Lecturer/Professor" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Tenure-Track Assistant Professor / Associate Professor in AI Systems Development and Architecture</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4107">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="PhD" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>PhD Student with Strong Computational Profile for the project Navigating Negativity: What is a Healthy News Diet?</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4168">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Et antal adjunkturer og lektorater i retsvidenskab på SDU - Esbjerg</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4135">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Postdoc/Researcher" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Computational Political Communication Postdoc position(s) at The Digital Democracy Centre</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4119">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Forskerstøtte SBS/SAMF (SDU Business School og Det Samfundsvidenskabelige Fakultet) søger en rådgiver til at støtte forskere i arbejdet med ekstern finansiering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4157">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Postdoc/Researcher" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Postdoc positions: Pharmacoepidemiology and reproductive epidemiology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4131">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Lecturer/Professor" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Danish Politics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4066">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Postdoc/Researcher" data-deadline="" style="margin-bottom: 1.5em;">
+<h3>Postdoc Position (24 months) in Renaissance Intellectual History and Byzantine–Humanist Knowledge Transfer</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4086">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> </li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>DIAS Fellow in Engineering within Robotics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4028">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>DIAS Fellow in Engineering within Organoid Intelligence</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4029">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Southern Denmark" data-type="Other" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>DIAS Fellow in Software Engineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://fa-eosd-saasfaprod1.fa.ocs.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_1001/job/4027">View job posting</a></li>
+  <li><strong>University:</strong> University of Southern Denmark</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

@@ -1,0 +1,51 @@
+# Nordic Academic Jobs
+<p style="font-size: 0.9em; color: gray;">
+  🇩🇰 🇸🇪 🇳🇴 🇫🇮 🇮🇸<br>
+  Created by 北欧少女莫小贝<br>
+  Contact beioumoxiaobei [at] gmail [dot] com
+</p>
+
+Welcome! <br>
+This site provides regularly updated academic job listings from universities across Nordic countries.<br>
+It is designed to help researchers and students easily discover open positions in academia.
+
+_Last updated: 2026-09-07_
+
+<!-- :::{prereq}
+prerequisites
+:::
+
+```{csv-table}
+:delim: ;
+:widths: auto
+
+20 min ; {doc}`filename`
+``` -->
+
+<!-- ```{toctree}
+:caption: The lesson
+:maxdepth: 1
+``` -->
+
+```{toctree}
+:caption: Browse by Country
+:maxdepth: 1
+
+all_current_jobs
+denmark
+finland
+iceland
+norway
+sweden
+
+```
+
+<!-- (learner-personas)= -->
+
+<!-- ## Who is the course for?
+
+## About the course
+
+## See also
+
+## Credits -->

@@ -1,0 +1,350 @@
+# University of Oslo
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 22</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Lecturer/Professor" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Media and Communication</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/300492/associate-professor-in-media-and-communication">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Lecturer/Professor" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Middle Eastern Politics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/303281/associate-professor-in-middle-eastern-politics">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Lecturer/Professor" data-deadline="2026-09-20" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Pharmacoepidemiology and Health Data Analytics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/305171/associate-professor-in-pharmacoepidemiology-and-health-data-analytics">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Lecturer/Professor" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in theoretical or computational quantum technology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/305104/associate-professor-in-theoretical-or-computational-quantum-technology">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Other" data-deadline="2026-09-14" style="margin-bottom: 1.5em;">
+<h3>Group Leader in Cell Biology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/304365/group-leader-in-cell-biology">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Other" data-deadline="2026-09-14" style="margin-bottom: 1.5em;">
+<h3>Group Leader in Computational Biology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/304359/group-leader-in-computational-biology">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Postdoc/Researcher" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>PhD Research Fellow in Dental Biomaterials, Wear Testing and Mechanical Characterisation</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/307075/phd-research-fellow-in-dental-biomaterials-wear-testing-and-mechanical-characterisation">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Postdoc/Researcher" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD Research Fellow in Digital Entrepreneurship</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/307700/phd-research-fellow-in-digital-entrepreneurship">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Postdoc/Researcher" data-deadline="2026-09-09" style="margin-bottom: 1.5em;">
+<h3>PhD Research Fellow in Machine Learning for Cognitive Neuroscience</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/306376/phd-research-fellow-in-machine-learning-for-cognitive-neuroscience">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Postdoc/Researcher" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>PhD Research Fellow in Meteorology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/306708/phd-research-fellow-in-meteorology">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Postdoc/Researcher" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>PhD Research Fellow in Social Sciences</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/305900/phd-research-fellow-in-social-sciences">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Postdoc/Researcher" data-deadline="2026-10-10" style="margin-bottom: 1.5em;">
+<h3>PhD Research Fellow in Soft Matter</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/307596/phd-research-fellow-in-soft-matter">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>PhD Research Fellow in Systematic Entomology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/306760/phd-research-fellow-in-systematic-entomology">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Postdoc/Researcher" data-deadline="2026-09-10" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/303060/postdoctoral-fellow">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Postdoc/Researcher" data-deadline="2026-09-16" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in immunology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/306676/postdoctoral-fellow-in-immunology">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Postdoc/Researcher" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Research Fellow in Quantum Machine Learning for Multimode Mechanics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/305567/postdoctoral-research-fellow-in-quantum-machine-learning-for-multimode-mechanics">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Research Fellowship for the project “Truth, Information, Democracy and Law”</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/302565/postdoctoral-research-fellowship-for-the-project-truth-information-democracy-and-law">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Lecturer/Professor" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Professor/ Associate Professor in Medicine (Psychiatry)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/303651/professor-associate-professor-in-medicine-psychiatry">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Lecturer/Professor" data-deadline="2026-09-25" style="margin-bottom: 1.5em;">
+<h3>Professor II/ Associate Professor 20 % position in Medicine (Surgery)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/304464/professor-ii-associate-professor-20-position-in-medicine-surgery">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Lecturer/Professor" data-deadline="2026-09-24" style="margin-bottom: 1.5em;">
+<h3>Professor II/ Associate Professor 20 % position of Medicine (Otorhinolaryngology)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/307298/professor-ii-associate-professor-20-position-of-medicine-otorhinolaryngology">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-24</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Postdoc/Researcher" data-deadline="2026-09-22" style="margin-bottom: 1.5em;">
+<h3>Researcher in Condensed Matter Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/307445/researcher-in-condensed-matter-physics">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="University of Oslo" data-type="Postdoc/Researcher" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Researcher in Solar Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/en/available-jobs/job/307635/researcher-in-solar-physics">View job posting</a></li>
+  <li><strong>University:</strong> University of Oslo</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

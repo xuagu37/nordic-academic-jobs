@@ -1,0 +1,398 @@
+# Aalborg University
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 26</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Lecturer/Professor" data-deadline="2026-09-07" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in statistics for the development of privacy-enhancing techniques in health care</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/959836">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Lecturer/Professor" data-deadline="2026-09-07" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Clinical AI</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/959838">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Lecturer/Professor" data-deadline="2026-09-08" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in International Business</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/962666">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Other" data-deadline="2026-09-10" style="margin-bottom: 1.5em;">
+<h3>Adjunkt/Lektor i Medicinsk Uddannelse</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/958057">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Lecturer/Professor" data-deadline="2026-09-11" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Thermal Engineering with a Focus on Electronics Cooling in Early Component Design</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/963986">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Postdoc/Researcher" data-deadline="2026-09-11" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Thermal Processes in Power to X Technologies</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/964035">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Postdoc/Researcher" data-deadline="2026-09-11" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Experiments on Water Electrolysis and Water Purification for Electrolyisis</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/964050">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Postdoc/Researcher" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in generative AI and educational research</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/957621">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Lecturer/Professor" data-deadline="2026-09-15" style="margin-bottom: 1.5em;">
+<h3>Assistant professor in Strategic Energy Planning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/962798">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Other" data-deadline="2026-09-16" style="margin-bottom: 1.5em;">
+<h3>Klinisk lektor i urologi</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/964763">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Other" data-deadline="2026-09-16" style="margin-bottom: 1.5em;">
+<h3>Undervisningsassistent til kamerabrug og editering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/965481">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Postdoc/Researcher" data-deadline="2026-09-18" style="margin-bottom: 1.5em;">
+<h3>Postdoc in sodium-ion battery state estimation</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/961198">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Lecturer/Professor" data-deadline="2026-09-20" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in the project “Infrastructuring the public sector’s use of AI”</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/961645">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Postdoc/Researcher" data-deadline="2026-09-27" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher (ORBIT Consortium)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/959328">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Lecturer/Professor" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Resilient Manufacturing Systems</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/950756">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Lecturer/Professor" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Professor and/or Associate Professor in Dynamics and Advanced Mechanical Systems</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/953678">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Lecturer/Professor" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Full professor in Computer Science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/954417">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Lecturer/Professor" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>One Assistant Professor and One Associate Professor in Economics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/963833">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="Postdoc/Researcher" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in modelling and structural optimization of composite structures</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/scientific-positions/show-vacancy/vacancyId/963838">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="PhD" data-deadline="2026-09-10" style="margin-bottom: 1.5em;">
+<h3>Ph.d.-stipendiat i sundhedstjenesteforskning og tværsektorielle patientforløb for socialt udsatte borgere</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/phd-positions/show-vacancy/vacancyId/961364">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="PhD" data-deadline="2026-09-10" style="margin-bottom: 1.5em;">
+<h3>PhD Stipend in Co Designing Technical AI for Collaborative Learning at the AI:X Collaborate Lab</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/phd-positions/show-vacancy/vacancyId/962444">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="PhD" data-deadline="2026-09-10" style="margin-bottom: 1.5em;">
+<h3>PhD stipend in GenAI and collaborative learning in higher education at the AI:X Collaborate Lab</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/phd-positions/show-vacancy/vacancyId/962795">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="PhD" data-deadline="2026-09-13" style="margin-bottom: 1.5em;">
+<h3>PhD in secure multiparty computation in quantum networks</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/phd-positions/show-vacancy/vacancyId/947560">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-13</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="PhD" data-deadline="2026-10-04" style="margin-bottom: 1.5em;">
+<h3>PhD in Secure and Privacy-Preserving Collaborative Language Models</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/phd-positions/show-vacancy/vacancyId/960857">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="PhD" data-deadline="2026-10-16" style="margin-bottom: 1.5em;">
+<h3>PhD Scholarship within the Research Project Not Liking School: Lived Experience of School Emotions</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/phd-positions/show-vacancy/vacancyId/963759">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aalborg University" data-type="PhD" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Ph.d.-stipendiat til retssociologisk forskningsprojekt</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.vacancies.aau.dk/phd-positions/show-vacancy/vacancyId/964402">View job posting</a></li>
+  <li><strong>University:</strong> Aalborg University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

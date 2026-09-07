@@ -1,0 +1,8 @@
+# Iceland
+
+```{toctree}
+:caption: Universities in Iceland
+:maxdepth: 1
+
+iceland-uni
+```
