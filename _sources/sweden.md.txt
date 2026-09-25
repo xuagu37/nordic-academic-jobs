@@ -1,0 +1,33 @@
+# Sweden
+
+```{toctree}
+:caption: Universities in Sweden
+:maxdepth: 1
+
+bth
+boras
+chalmers
+dalarna
+gavle
+gothenburg
+halmstad
+jonkoping
+karlstad
+ki
+kth
+linkoping
+lnu
+lulea
+lund
+malardalen
+malmo
+miun
+slu
+sodertorn
+sse
+stockholm
+umea
+uppsala
+west
+orebro
+```

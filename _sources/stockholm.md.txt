@@ -1,0 +1,554 @@
+# Stockholm University
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 39</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>PhD student in Physics: 2D quantum simulations with trapped Rydberg ions</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:963101/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>PhD student in Physics: open quantum system simulations with trapped ions</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:963109/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Physics: Background and Calibration Studies for Neutron-Oscillation Searches</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:963115/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Radiation Physics: AI-Driven Precision Radiotherapy for Spinal Metastases</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:963124/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>PhD student in Medical Radiation Physics oriented towards Radiobiology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:963077/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="Other" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Teaching assistant in data science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:963888/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="Other" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Geological Sciences Education Coordinator</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:965777/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="Postdoc/Researcher" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Marine Cloud Brightening</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:966560/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>PhD student in Sociological Demography</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:948160/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="Postdoc/Researcher" data-deadline="2026-10-02" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in machine learning and dynamic quantum matter</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:970643/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="Research Engineer" data-deadline="2026-10-04" style="margin-bottom: 1.5em;">
+<h3>Research Engineer in Medical Image Processing and Machine Learning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:964808/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Research Engineer</li>
+  <li><strong>Deadline:</strong> 2026-10-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-06" style="margin-bottom: 1.5em;">
+<h3>PhD student in Physical Geography focusing on Glacial Biogeochemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:966321/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="Postdoc/Researcher" data-deadline="2026-10-07" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Ice core chemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:966951/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="Postdoc/Researcher" data-deadline="2026-10-12" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in sexual selection and epidemiology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:967077/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-12</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="Lecturer/Professor" data-deadline="2026-10-12" style="margin-bottom: 1.5em;">
+<h3>Professor in [ärendemall]</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:971115/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-12</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Practical Philosophy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:959485/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Theoretical Philosophy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:947072/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computer and Systems Sciences, with focus on Machine Learning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:965823/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computer and Systems Sciences, with focus on Cybersecurity</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:965877/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computer and Systems Sciences, with focus on Internet of Things and Machine Learning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:965933/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computer and Systems Sciences, with focus on Human–Computer Interaction and Design of AI User Interfaces</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:966176/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computer and Systems Sciences, with focus on Adaptive Immersive Experiences</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:966188/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Information Society, with focus on Agent-Based Simulation of Social Behaviour</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:966253/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Information Society, with focus on Agent-Based Social Simulation for Crises Preparedness</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:966353/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Theoretical philosophy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:947001/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Computer and Systems Sciences, with focus on  AI-enabled Digital Transformation in the Public Sector</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:965776/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Public Health Sciences</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:966055/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Public Health Sciences</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:963985/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in linguistics, focus on sign language</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:967628/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in linguistics, focus on child language development</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:967606/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in Science Education</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:960173/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD student in mathematics education with a focus on statistical literacy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:952374/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="Postdoc/Researcher" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Computational Mathematics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:963246/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-17" style="margin-bottom: 1.5em;">
+<h3>PhD student in English with Specialisation in Literary Studies</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:969676/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-17</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="Lecturer/Professor" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Computer and Systems Sciences, focus Decision Analysis</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:966456/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-24" style="margin-bottom: 1.5em;">
+<h3>PhD student in Ecology and Evolution</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:966879/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-24</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="PhD" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>PhD student in Wetland ecology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:969795/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="Postdoc/Researcher" data-deadline="2026-11-08" style="margin-bottom: 1.5em;">
+<h3>Researcher in History of Science or Digital Humanities</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:959813/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Stockholm University" data-type="Postdoc/Researcher" data-deadline="2026-11-08" style="margin-bottom: 1.5em;">
+<h3>Researcher in Philosophy of Science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://su.varbi.com/what:job/jobID:960609/where:4/">View job posting</a></li>
+  <li><strong>University:</strong> Stockholm University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-08</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

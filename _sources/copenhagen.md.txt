@@ -1,0 +1,1310 @@
+# University of Copenhagen
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 102</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-09-26" style="margin-bottom: 1.5em;">
+<h3>PhD fellowship in Computational Pharmacology and Data Science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168979">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-09-27" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Companion Animal Surgery (DipECVS or DipACVS)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167023">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-09-27" style="margin-bottom: 1.5em;">
+<h3>UHV Vacuum Engineer</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167954">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-09-27" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Democratic Innovations and Moralizing Politics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168315">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-09-27" style="margin-bottom: 1.5em;">
+<h3>PhD fellowship in Biomolecular Native Mass Spectrometry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168359">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-09-27" style="margin-bottom: 1.5em;">
+<h3>1-2 Assistant Professor positions in Experimental Hematology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168894">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-09-27" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Ancient Human and Pathogen Genomics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168939">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-09-27" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in functional ancient microbial ecogenomics within the Ancient Environmental Genomics Initiative for Sustainability (AEGIS)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168955">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-09-27" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor of Geophysics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168998">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>Studerende til Psyk-studieliv og studenterrettet kommunikation</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168722">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>Two PhD fellowships in forensic chemistry of peptides and proteins</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168985">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>PhD position for 3 years in stem cell-based disease modelling of schizophrenia</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168996">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>SODAS is seeking a new student assistant for research project on sea level rise</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169014">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor of Molecular Pharmacology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169077">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>Staff Scientist in T-cell Immunology and Vaccine Research at the NIVI Research Center</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169078">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>PhD fellowship in circulating factor in unwanted weight loss at the Department of Biomedical Sciences</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169081">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>PhD in Causal Machine Learning for Real World Evidence data</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169082">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor (Tenure Track) or Associate Professor (Open Rank) in New Testament Studies, Faculty of Theology, University of Copenhagen</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=166480">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Mechanistic Understanding of AI Reasoning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167176">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Medhjælpere/betjente til Zoologisamlingsenheden ved Statens Naturhistoriske Museum</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167273">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Experimental Atmospheric Physical Chemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167426">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoc in registry based cognitive research at the Department of Psychology, Faculty of Social Sciences, University of Copenhagen (UCPH)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167642">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Expert Technical Assistant for Transgenic Services, Center for Core Facilities</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168635">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>PhD position in Organometallic Chemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168732">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Grundtvig Studies at the Faculty of Theology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=164858">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>PhD fellowship in Infrastructures of Care for the Green Transition</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=166893">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>PhD fellowship in DNA Replication and Early Mammalian Development at the Department of Cellular and Molecular Medicine</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167296">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>211-0750/26-2E Associate Professor of Theoretical Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167785">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Metabolomics Data Scientist</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167957">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Experimental Nanophotonics and Quantum Optics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167960">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>PhD Fellowship in Microbial Ecology and Community-Based Bioprotection of Plant Foods</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168337">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Postdoc Position in “Minimising the Environmental impact of Cleaning”</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169119">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Researcher in molecular and physiological regulation of muscle glycogen degradation using novel preclinical models</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169259">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>PhD in Computational Genomics and Precision Medicine</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169260">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-02" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Nutrition, Metabolism and Type 2 Diabetes at the Department of Nutrition, Exercise and Sports (NEXS)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168744">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-10-04" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Plant–Microbe and Weed Ecology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168301">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-04" style="margin-bottom: 1.5em;">
+<h3>Research-to-Innovation Infrastructure Developer</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168705">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-10-04" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor for Computational Non-Target Screening of Contaminants of Emerging Concern</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169287">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-05" style="margin-bottom: 1.5em;">
+<h3>Senior Process Engineer at NQCP</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167955">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-05" style="margin-bottom: 1.5em;">
+<h3>UHV Process &amp; Automation Engineer</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168023">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-05" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Modelling of Ecosystem Biogeochemistry of Wetlands</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168159">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-05" style="margin-bottom: 1.5em;">
+<h3>PhD Scholarship Forgetting Secrecy? at the Department of Communication, Faculty of Humanities, University of Copenhagen (UCPH)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168553">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-05" style="margin-bottom: 1.5em;">
+<h3>PhD fellowship in Biological Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169521">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-10-06" style="margin-bottom: 1.5em;">
+<h3>Associate Professor of Neurodevelopmental Disorders (Fixed-Term, 4 Years)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167727">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-07" style="margin-bottom: 1.5em;">
+<h3>Student Assistant to help with administration tasks at NordStruct</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169400">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-07" style="margin-bottom: 1.5em;">
+<h3>PhD fellowship in Artificial Intelligence for Monitoring and Decision Support at Animal and Herd Level</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169612">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-10-07" style="margin-bottom: 1.5em;">
+<h3>Teaching Associate Professor in Veterinary Anatomy and Pathology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169621">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-07" style="margin-bottom: 1.5em;">
+<h3>PhD fellowship in NanoGeoBiolgy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169641">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-08" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Deep Mutational Scanning at the Department of Biology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169704">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-09" style="margin-bottom: 1.5em;">
+<h3>Postdoc position to examine challenges to a greener and more biodiverse Denmark using social sciences perspectives and the case of evolving human/mosquito relations</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168256">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-09" style="margin-bottom: 1.5em;">
+<h3>Postdoc in long-term changes in plant diversity</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168887">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-10" style="margin-bottom: 1.5em;">
+<h3>Fully funded PhD fellowship in Resource Efficiency for Generative AI</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169080">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-11" style="margin-bottom: 1.5em;">
+<h3>Statens Naturhistoriske Museums Kommercielle afdeling søger floormanager til sikring af den daglige afvikling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168684">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-11" style="margin-bottom: 1.5em;">
+<h3>Assistant Professorship in Human-Centred Computing</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168707">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-11" style="margin-bottom: 1.5em;">
+<h3>Staff scientist position in Molecular Biology at BRIC</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168999">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-10-11" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor of Quantum Technology Didactics, Niels Bohr Institute - NQCP, Department of Science Education - USE Center.</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169352">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-11" style="margin-bottom: 1.5em;">
+<h3>PhD fellowship in Plant Biochemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169625">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-10-14" style="margin-bottom: 1.5em;">
+<h3>166428 Clinical Professor of Rheumatology with special focus on the Influence of Obesity on Osteoarthritis (Fixed-Term, 5 Years)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=166428">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-14" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Computational Writing in the Context of Pharmaceutical Data Science Education</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=166896">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-14" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Neural Circuits of Sensorimotor Control</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169394">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD fellowship in Soil Fertility phosphorus</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167182">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>PhD Scholarship in China Studies at the Department of Cross-Cultural and Regional Studies, Faculty of Humanities, University of Copenhagen (UCPH)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168607">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Postdoc in mass spectrometry for quantitative proteomics at Center for Glycocalyx Research</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168997">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Interdisciplinary post doc studying impacts of extreme heat</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169071">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Postdoc in forensic genetics and complex samples</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169873">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-10-16" style="margin-bottom: 1.5em;">
+<h3>168152 Clinical Professor of Paediatric Anaesthesia (Fixed-Term, 5 Years)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168152">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-10-18" style="margin-bottom: 1.5em;">
+<h3>166979 Clinical professor of Colorectal Cancer Surgery (fixed-term 5 years)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=166979">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-18" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Cardiac Fibrosis Genomics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167751">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-18" style="margin-bottom: 1.5em;">
+<h3>Projektadministrator til Datalogisk Institut</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168208">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-10-18" style="margin-bottom: 1.5em;">
+<h3>Professor of Translational molecular neuropathology (Part-time, fixed-term 5 Years)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168796">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-18" style="margin-bottom: 1.5em;">
+<h3>Staff Scientist (AC-TAP) in Biomolecular Sciences at the Department of Biology, Faculty of Science, University of Copenhagen</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169279">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-18" style="margin-bottom: 1.5em;">
+<h3>PhD fellowship in Theoretical Catalysis</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169342">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-18" style="margin-bottom: 1.5em;">
+<h3>Instructors (students) and Teaching Assistants (with a completed master&#x27;s degree) at the Department of Computer Science, UCPH, block 3 and 4 in 2027</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169533">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-18" style="margin-bottom: 1.5em;">
+<h3>Instructors to NBI Block 3 and 4 in 2027</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169538">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-18" style="margin-bottom: 1.5em;">
+<h3>Instruktorer til Institut for Matematiske fag Blok 3 og 4 i 2027</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169540">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-19" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in ‘Citizen Competency in the Use of Public Service Chatbots’ as part of the National Center for AI in Society (CAISA) and based in Copenhagen</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169052">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-19</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-20" style="margin-bottom: 1.5em;">
+<h3>Communications and administration student employee for VOLT at the University of Copenhagen</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=166712">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-25" style="margin-bottom: 1.5em;">
+<h3>Staff scientist in the Human Organoid facility at the Novo Nordisk Foundation Center for Vaccines and Immunity</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169315">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-10-27" style="margin-bottom: 1.5em;">
+<h3>Tenure Track assistant professor, associate professor or professor of Food Processing &amp; Technology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168534">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-10-27" style="margin-bottom: 1.5em;">
+<h3>Student Assistant to help with communication tasks at the Integrative Structural Biology cluster</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169189">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-10-28" style="margin-bottom: 1.5em;">
+<h3>Tenure-track Assistant Professor or Associate Professor of Food and Ingredient Biochemical Processing</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168562">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-29" style="margin-bottom: 1.5em;">
+<h3>3 Postdoc positions within forest microbiome assisted afforestation</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169834">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher Position in Labour Immigration and Institutional Change</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167305">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Transition-Metal Catalysis &amp; Organometallic Chemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168905">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>PhD position in Organometallic Chemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168922">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Postdoc in System Dynamics Modelling and Adolescent Health</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169813">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>PhD stipends in Statistics and the mathematics of Insurance and Economics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167401">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>PhD stipends in Mathematics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167403">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Statens Naturhistoriske Museum søger formidlingsværter</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167576">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Vi søger flere studerende til Butik, Billet &amp; Gæsteservice på Statens Naturhistoriske Museum</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167659">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Vi søger flere medarbejdere til Butik og Billet &amp; Gæsteservice – 20 og 30 timer</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167671">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Fully funded PhD position in Korean Studies at the Department of Cross-Cultural and Regional Studies</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169053">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>211-0367/26-2K Professor within Microbial interactions in plant and environmental systems</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169271">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-11-02" style="margin-bottom: 1.5em;">
+<h3>Tenure Track Assistant Professor or Associate Professor and Curator of Mammals</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=164686">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Lecturer/Professor" data-deadline="2026-11-04" style="margin-bottom: 1.5em;">
+<h3>Tenure Track Assistant Professor in Experimental Planetary Materials Science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169539">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="PhD" data-deadline="2026-11-08" style="margin-bottom: 1.5em;">
+<h3>PhD fellowship in Natural Language Processing</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167227">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-11-08" style="margin-bottom: 1.5em;">
+<h3>Computational and Data Staff Scientist Novo Nordisk Foundation Center for Protein Design</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169121">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Other" data-deadline="2026-11-14" style="margin-bottom: 1.5em;">
+<h3>Operation Director for SCIENCE Makerspace</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=168989">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-11-15" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Positions in Statistics and the Mathematics of Insurance and Economics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167779">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-11-15" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Positions in Mathematics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=167780">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Cognitive Computational Neuroscience and Human Movement Perception</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169455">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="University of Copenhagen" data-type="Postdoc/Researcher" data-deadline="2027-02-09" style="margin-bottom: 1.5em;">
+<h3>14 postdoctoral fellowships to the BRIDGE – Translational Excellence Programme</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://employment.ku.dk/all-vacancies/?show=169159">View job posting</a></li>
+  <li><strong>University:</strong> University of Copenhagen</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2027-02-09</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

@@ -1,0 +1,1214 @@
+# Karolinska Institute
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 94</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="PhD" data-deadline="2026-09-25" style="margin-bottom: 1.5em;">
+<h3>Doctoral (PhD) student position in colorectal tumor immunology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:966651/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-25" style="margin-bottom: 1.5em;">
+<h3>Research assistant in Adoptive T cell Therapy for gynecological cancer and advanced melanoma</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:966213/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-09-25" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Fluid Biomarkers and Dementia with Lewy Bodies</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:962539/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-25" style="margin-bottom: 1.5em;">
+<h3>Junior forskningsassistent till kortare projekt inom vävnadsimmunologi</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:966467/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="PhD" data-deadline="2026-09-25" style="margin-bottom: 1.5em;">
+<h3>Doctoral position in translational research on leukemia niche’</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:962593/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-09-26" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in chromosome organization and function</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:965578/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-26" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in Environmental Physiology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:966478/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-09-26" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Population Pharmacogenetics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:966511/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-27" style="margin-bottom: 1.5em;">
+<h3>Laboratory technician in iPSC and organoid technology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:963457/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-27" style="margin-bottom: 1.5em;">
+<h3>Statistician</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:964241/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Nutritional Neuroscience</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:966316/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Lecturer/Professor" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>Professor of Computational Biology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:949363/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>Klinisk handledare inom odontologisk röntgen</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:967049/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>Doktorandplats inom ämnet endokardit</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:966710/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-28" style="margin-bottom: 1.5em;">
+<h3>Lab Manager</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:966650/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="PhD" data-deadline="2026-09-29" style="margin-bottom: 1.5em;">
+<h3>We are looking for PhD candidates to study molecular and circuit mechanisms of learning and memory.</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:966583/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-29" style="margin-bottom: 1.5em;">
+<h3>Huvudtentavakt till tentamensservice</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:966983/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-29" style="margin-bottom: 1.5em;">
+<h3>Laboratorieingenjör</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:965611/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-29" style="margin-bottom: 1.5em;">
+<h3>Forskningsassistent vid Avdelningen för psykologi (deltid)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:966975/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-09-29" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in vascular cognitive impairment and dementia</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:966777/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-29" style="margin-bottom: 1.5em;">
+<h3>Ledningssamordnare till RIKI</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:965978/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in Systems Neuroscience Neural basis of survival behaviors</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:929898/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in in environmental epidemiology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:965346/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Central koordinator till Svenska Barncancerregistret - Barncancerforskning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:964810/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Forskningssjuksköterska till lung- och allergiforskning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:967240/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in Systems Neuroscience Neural basis of survival behaviors</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:929940/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral studies in Experimental Systems Neuroscience (scholarship)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:891414/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral studies in Experimental Systems Neuroscience (scholarship)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:891414/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="PhD" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Doctoral (PhD) student position in Neuropsychoimmunology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:967444/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-09-30" style="margin-bottom: 1.5em;">
+<h3>Forma framtidens medicinska innovation med avancerad AI – Nu söker Karolinska Institutet 2 nya AI Ingenjörer</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:939343/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-09-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Clinical Epidemiology and Treatment Research</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:966110/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Adipose Tissue Development Using Lineage Tracing</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:967691/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Title TA</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:968307/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Doktorandplats inom reumatologi</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:968211/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-01" style="margin-bottom: 1.5em;">
+<h3>Are you a systems thinker interested in co-designing new models for health care delivery?</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:962574/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-02" style="margin-bottom: 1.5em;">
+<h3>Research assistant to the Department of Global Public Health</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:967269/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-02" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in microbiology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:968047/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-02" style="margin-bottom: 1.5em;">
+<h3>Research assistant in placenta-brain axis</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:964603/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-04" style="margin-bottom: 1.5em;">
+<h3>Postdoktor i klinisk utvärdering av AI-baserade medicinska beslutsstöd</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:969588/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-04" style="margin-bottom: 1.5em;">
+<h3>Doktorandplats i nutritionsepidemiologi med inriktning mot demensforskning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:968887/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-05" style="margin-bottom: 1.5em;">
+<h3>Research assistant in AI-driven peptide design and translational cancer research</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:968140/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="PhD" data-deadline="2026-10-05" style="margin-bottom: 1.5em;">
+<h3>Doctoral (PhD) student position in T-cell biology in rheumatic diseases</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:969035/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-05" style="margin-bottom: 1.5em;">
+<h3>Research assistant – laboratory assistant</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:968395/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="PhD" data-deadline="2026-10-06" style="margin-bottom: 1.5em;">
+<h3>PhD position in environmental epidemiology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:969224/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-06" style="margin-bottom: 1.5em;">
+<h3>Postdoktor inom mRNA-baserad CAR T-cellsterapi</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:970359/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-06" style="margin-bottom: 1.5em;">
+<h3>Research Coordinator in immunology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:969045/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Lecturer/Professor" data-deadline="2026-10-06" style="margin-bottom: 1.5em;">
+<h3>Professor of Osteoporosis combined with employment as specialist physician at Karolinska University Hospital</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:949193/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-06" style="margin-bottom: 1.5em;">
+<h3>Research assistant in environmental epidemiology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:969472/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-07" style="margin-bottom: 1.5em;">
+<h3>Forskningssköterska med kompetens inom beteendeförändring till PEPP-studien (timanställning)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:969395/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-07" style="margin-bottom: 1.5em;">
+<h3>Vikarierande projektledare i suicidprevention med fokus på barn och unga</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:970052/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-07" style="margin-bottom: 1.5em;">
+<h3>Forskningsassistent inom dataharmonisering och enkätdata</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:969757/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-07" style="margin-bottom: 1.5em;">
+<h3>Forskningssköterska med kompetens inom beteendeförändring till PEPP-studien (timanställning)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:969395/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-07" style="margin-bottom: 1.5em;">
+<h3>Vikarierande projektledare i suicidprevention med fokus på barn och unga</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:970052/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-07" style="margin-bottom: 1.5em;">
+<h3>Internationell handläggare med ansvar för utbytesstudier</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:970336/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-07" style="margin-bottom: 1.5em;">
+<h3>Postdoktor i klinisk fysiologi</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:969610/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-07" style="margin-bottom: 1.5em;">
+<h3>Undergraduate studies in Machine learning for early prediction of primary sclerosing cholangitis (scholarship)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:965150/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-08" style="margin-bottom: 1.5em;">
+<h3>Biträdande lektor i pediatrisk läkemedelsepidemiologi</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:970351/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-08" style="margin-bottom: 1.5em;">
+<h3>Doktorandplats inom ergonomi och digital teknik för ett hållbart arbetsliv</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:970550/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="PhD" data-deadline="2026-10-09" style="margin-bottom: 1.5em;">
+<h3>Doctoral (PhD) student position in proteomics and insulin resistance in metabolic disease</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:971139/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-09" style="margin-bottom: 1.5em;">
+<h3>Enhetschef till Komparativ medicin</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:969802/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-09" style="margin-bottom: 1.5em;">
+<h3>Adjunkt inom Ortodonti</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:969340/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-10" style="margin-bottom: 1.5em;">
+<h3>Research assistant in the field of human tumor immunology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:968409/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-11" style="margin-bottom: 1.5em;">
+<h3>Student Assistant in the Translational Cardiovascular Imaging Team – Part of the Clinical Physiology Research Group</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:971342/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-10-11" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Leukemic Stem Cell Biology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:967923/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-12" style="margin-bottom: 1.5em;">
+<h3>IT-specialist inom datacenter</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:967786/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-12</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-12" style="margin-bottom: 1.5em;">
+<h3>Koordinator med ansvar för EU-projekt</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:970337/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-12</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Lecturer/Professor" data-deadline="2026-10-12" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in medical anthropology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:962943/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-12</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-10-13" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral studies on the function of circuits and neuron subtypes (scholarship)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:969132/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-13</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-13" style="margin-bottom: 1.5em;">
+<h3>Bioinformatician</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:972121/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-13</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Lecturer/Professor" data-deadline="2026-10-13" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Geriatric Mental Health</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:962396/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-13</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-13" style="margin-bottom: 1.5em;">
+<h3>Adjunkt i klinisk fysiologi (vikariat)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:971466/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-13</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-10-14" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral studies in cardiometabolic vascular disease (scholarship)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:970218/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="PhD" data-deadline="2026-10-14" style="margin-bottom: 1.5em;">
+<h3>PhD Position in Oral Biology and Medicine</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:972196/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-10-14" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in cardiometabolic vascular disease</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:970049/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-14" style="margin-bottom: 1.5em;">
+<h3>Utbildningsadministratör med inriktning mot grund- och forskarutbildning (vikariat)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:972484/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in Translational Melanoma Research</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:972846/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>HR-Partner, tidsbegränsad anställning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:969532/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Vik. Klinisk handledare till kliniken för prevention och sjukdomsbehandling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:972776/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Psykolog eller annan relevant profession för utveckling av ICF-baserad kartläggning och stöd</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:969829/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Systemadministratör till forskningsinfrastruktur</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:972710/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="PhD" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Doctoral (PhD) student position in Epigenetics, Bioinformatics and Neuroimmunology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:972393/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-15" style="margin-bottom: 1.5em;">
+<h3>Vik. Tandhygienist/klinisk handledare till Universitetstandvården</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:972974/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-16" style="margin-bottom: 1.5em;">
+<h3>Senior Research Specialist in Neuroscience with a focus on Advanced Microscopy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:972481/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-10-16" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Metabolic Regulation of Inflammation</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:970710/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-16" style="margin-bottom: 1.5em;">
+<h3>Forskningsingenjör inom klinisk AI och datainfrastruktur</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:973159/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-16" style="margin-bottom: 1.5em;">
+<h3>Research Specialist in mechano-immunology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:973168/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-18" style="margin-bottom: 1.5em;">
+<h3>EU-handläggare</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:972350/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Lecturer/Professor" data-deadline="2026-10-19" style="margin-bottom: 1.5em;">
+<h3>Lecturer in Bioentrepreneurship</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:971267/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-19</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-10-20" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Structural Virology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:970792/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-10-20" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral studies in Experimental Systems Neuroscience (scholarship)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:912510/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Other" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>Administrativ chef till Karolinska Institutet - NVS</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:970630/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="PhD" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>PhD Position Translational Neuroscience</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://kidoktorand.varbi.com/en/what:job/jobID:967065/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Postdoc/Researcher" data-deadline="2026-10-25" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position focusing on algorithmic management, work and health</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:972047/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Karolinska Institute" data-type="Lecturer/Professor" data-deadline="2026-11-09" style="margin-bottom: 1.5em;">
+<h3>1-2 Senior Lecturer in Family Medicine combined with position as specialist physician in primary care in Stockholms Läns Sjukvårdsområde (SLSO)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://ki.varbi.com/en/what:job/jobID:951623/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Karolinska Institute</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-09</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>
