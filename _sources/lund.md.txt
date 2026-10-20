@@ -1,0 +1,578 @@
+# Lund University
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 41</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Postdoc/Researcher" data-deadline="2026-10-20" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in structural bioinformatics and bacteriophage protein evolution (PA2026/2889)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:976086/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Postdoc/Researcher" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Electrical Engineering focusing on Nanoelectronics and Cryogenic and Ferroelectric materials (PA2026/2649)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:968024/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Postdoc/Researcher" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Lighting, Visual Ergonomics and the Visual Environment (PA2026/2790)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:973142/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Postdoc/Researcher" data-deadline="2026-10-22" style="margin-bottom: 1.5em;">
+<h3>Assistant researcher to the Diagnostic Radiology research group (PA2026/2869)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:975480/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2026-10-23" style="margin-bottom: 1.5em;">
+<h3>Doctoral Student in Automatic Control with focus on Datacenter Control (PA2026/2448)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:961545/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-23</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2026-10-23" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Electrical Engineering focusing on Applied Cryptography and Privacy (PA2026/2647)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:968020/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-23</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2026-10-23" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Electrical Engineering focusing on Cybersecurity (PA2026/2645)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:968016/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-23</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Research Engineer" data-deadline="2026-10-25" style="margin-bottom: 1.5em;">
+<h3>Control System Software Engineer (PA2026/2830)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:974152/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Research Engineer</li>
+  <li><strong>Deadline:</strong> 2026-10-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Postdoc/Researcher" data-deadline="2026-10-26" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in Human-Computer Interaction focusing on AI-mediated programming (PA2026/2875)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:975583/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2026-10-27" style="margin-bottom: 1.5em;">
+<h3>PhD student in Political Science (PA2026/2879)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:975769/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Other" data-deadline="2026-10-29" style="margin-bottom: 1.5em;">
+<h3>Research Infrastructure Specialist in AI/ML (PA2026/2512)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:963933/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Other" data-deadline="2026-10-29" style="margin-bottom: 1.5em;">
+<h3>Teaching assistant at the Department of Electrical and Information Technology for work with coordination of undergraduate laboratories (PA2026/2707)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:970106/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Postdoc/Researcher" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Eco-Evolutionary Microbiome and Thermal Biology (PA2026/2841)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:974541/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Postdoc/Researcher" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral fellow in AI-based design of de novo protein biofilm systems (PA2026/2792)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:973185/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Lecturer/Professor" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Gynaecology combined with a position as Specialist Physician/Consultant (PA2026/468)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:902060/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Other" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Beamline Scientist at MAXPEEM (PA2026/2785)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:972765/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Other" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>RF Technician (PA2026/2913)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:977402/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Postdoc/Researcher" data-deadline="2026-11-02" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral fellow in assesment of global forest dynamics (PA2026/2856)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:975037/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Other" data-deadline="2026-11-03" style="margin-bottom: 1.5em;">
+<h3>Project assistant at the Department of Process Engineering and Applied Life Sciences (PA2026/2981)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:979843/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Lecturer/Professor" data-deadline="2026-11-03" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Polymer Technology with a focus on Polymer Chemistry (PA2026/2526)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:964482/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Research Engineer" data-deadline="2026-11-03" style="margin-bottom: 1.5em;">
+<h3>Research Engineer in hematology and clinical immunology. (PA2026/3015)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:981039/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Research Engineer</li>
+  <li><strong>Deadline:</strong> 2026-11-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Other" data-deadline="2026-11-03" style="margin-bottom: 1.5em;">
+<h3>Biostatistician to the Clinical Memory Research group (PA2026/2860)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:975207/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Lecturer/Professor" data-deadline="2026-11-04" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in technical GIS (PA2026/1439)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:930481/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2026-11-05" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Risk and Safety of Heterogeneous Swarm Systems (PA2026/2844)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:974638/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2026-11-06" style="margin-bottom: 1.5em;">
+<h3>Doctoral position in medical radiation physics (PA2026/2949)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:978722/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Postdoc/Researcher" data-deadline="2026-11-08" style="margin-bottom: 1.5em;">
+<h3>Postdoc experienced in electrochemistry research (PA2026/2912)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:977396/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2026-11-08" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Technology and Society on regulatory learning and supervisory competence (PA2026/2479)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:962298/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2026-11-09" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Biomedical Engineering specializing in engineering acoustics (PA2026/2501)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:963476/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Postdoc/Researcher" data-deadline="2026-11-09" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in societal aspects of copyright and AI (PA2026/2926)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:978010/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2026-11-09" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Industrial Design with focus on strategic design (PA2026/2975)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:979666/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Lecturer/Professor" data-deadline="2026-11-16" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Computer Science with Focus on Verification and Validation of Large-Scale Autonomous Systems (PA2026/2602)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:966737/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Postdoc/Researcher" data-deadline="2026-11-16" style="margin-bottom: 1.5em;">
+<h3>Post-doctoral fellow in Organic Chemistry (PA2026/3000)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:980483/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Lecturer/Professor" data-deadline="2026-11-26" style="margin-bottom: 1.5em;">
+<h3>Professor of Medical Virology (with the possibility of a combined position) (PA2026/470)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:902067/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Lecturer/Professor" data-deadline="2026-11-27" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Crisis preparedness and Civil Defence with a Focus on Social Vulnerability and Critical Perspectives (PA2026/2529)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:964778/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Lecturer/Professor" data-deadline="2026-11-27" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Experimental Medical Science (PA2026/1950)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:943541/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Astronomy and Astrophysics (PA2026/2727)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:970808/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="Lecturer/Professor" data-deadline="2026-12-08" style="margin-bottom: 1.5em;">
+<h3>Senior Lecturer in Architecture with a focus on computational design and digital fabrication (PA2026/2818)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:973623/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-12-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2027-01-31" style="margin-bottom: 1.5em;">
+<h3>PhD in Sociology of Law – Islamic Ethics and Governance in Central Asia (PA2026/2939)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:978489/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2027-01-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2027-01-31" style="margin-bottom: 1.5em;">
+<h3>PhD in Sociology of Law – Women&#x27;s Legal Agency in Central Asia and MENA (PA2026/2991)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:980150/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2027-01-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2027-01-31" style="margin-bottom: 1.5em;">
+<h3>PhD in Sociology of Law – Securitisation of Religion in Hybrid Regimes (PA2026/2993)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:980246/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2027-01-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Lund University" data-type="PhD" data-deadline="2027-01-31" style="margin-bottom: 1.5em;">
+<h3>PhD in Sociology of Law – Civil Islam and Non-Coercive Governance (PA2026/2994)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://lu.varbi.com/en/what:job/jobID:980250/type:job/where:4/apply:1">View job posting</a></li>
+  <li><strong>University:</strong> Lund University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2027-01-31</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

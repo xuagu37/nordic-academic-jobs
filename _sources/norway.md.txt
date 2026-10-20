@@ -1,0 +1,17 @@
+# Norway
+
+```{toctree}
+:caption: Universities in Norway
+:maxdepth: 1
+
+agder
+bergen
+nmbu
+nord
+ntnu
+oslo
+oslomet
+stavanger
+tromso
+usn
+```

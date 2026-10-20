@@ -1,0 +1,1550 @@
+# DTU
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 122</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-03" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in fermentation-based production of biochemicals - BRIGHT</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8439">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-02" style="margin-bottom: 1.5em;">
+<h3>Studentermedhjælper til projektet Copyright Nature - DTU Construct</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8434">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Hydrological Extremes Across Scales, Hazards and Impacts for Resilient Water and Infrastructure Systems - DTU Sustain</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8433">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Studentermedhjælper til Team Management Support - DTU Wind</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8143">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-10" style="margin-bottom: 1.5em;">
+<h3>Postdoc (Project Manager) for the European Doctoral Network in Multimaterial Additive Manufacturing (MultiMAM) - DTU Construct</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8397">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-05" style="margin-bottom: 1.5em;">
+<h3>Projektleder med teknisk og tværfaglig baggrund - DTU Campus Service</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8432">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-22" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Technology-Supported Home-Based Treatment - DTU Health Tech</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8427">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-04" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Situational Awareness for Resilient Operation of Distribution Grids - DTU Wind</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8420">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-11" style="margin-bottom: 1.5em;">
+<h3>Research Assistant for Product Development - DTU Food</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8424">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-11" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Soil Microbiome Assembly - DTU Bioengineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8423">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-15" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Generative AI for Multisensory Experience - DTU Engineering Technology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8421">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-28" style="margin-bottom: 1.5em;">
+<h3>Struktureret eventkoordinator med sans for planlægning, samarbejde og gode oplevelser - Afd. for Policy &amp; Relationer</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8425">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-27" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Systematic Characterization and Improvement of Bacterial Cell Factories for the Utilization of Power-to-X Feedstocks - BRIGHT</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8409">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-27" style="margin-bottom: 1.5em;">
+<h3>Økonomimedarbejder med flair for tal - Afd. for Økonomi og Regnskab (Hirtshals)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8412">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-10" style="margin-bottom: 1.5em;">
+<h3>Konsulent med fokus på administration, digitalisering og forskningsstøtte - DTU Energy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8411">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Biomass Valorisation for Application in Textiles - DTU Bioengineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8410">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-08" style="margin-bottom: 1.5em;">
+<h3>PhD Position in Entrepreneurship, AI, and Labor Market Disruption - DTU Entrepreneurship</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8416">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-16" style="margin-bottom: 1.5em;">
+<h3>PhD Scholarship in Machine Learning for Non-Stationary and Non-Static Nano-Tomography - DTU Compute</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8417">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-27" style="margin-bottom: 1.5em;">
+<h3>Special Consultant for HealthTech Innovation and Venture Development – DTU Entrepreneurship</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8418">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Academic Entrepreneurship and Innovation Ecosystems - DTU Entrepreneurship</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8419">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-02" style="margin-bottom: 1.5em;">
+<h3>Electronics Engineer - DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8396">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-11" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Dynamic Food System Modelling - BRIGHT</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8403">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-26" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Metabolic Engineering of Thermofiles - BRIGHT</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8404">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-26" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Anaerobic Metabolic Engineering - BRIGHT</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8405">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-03" style="margin-bottom: 1.5em;">
+<h3>PhD in Light-Activated Micromotors for Biomedical Applications - DTU Health Tech</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8398">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-26" style="margin-bottom: 1.5em;">
+<h3>Postdoc in the Development of Micromotor Technologies to Overcome Biofilm Barriers in Hidradenitis Suppurativa - DTU Health Tech</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8408">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-07" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Biomass Fractionation and Valorization - DTU Bioengineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8407">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Proaktiv og serviceminded IT-supporter elev søges til DTU Bioengineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8384">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-23" style="margin-bottom: 1.5em;">
+<h3>Head of Dosimetry - DTU Health Tech</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8386">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-23</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-23" style="margin-bottom: 1.5em;">
+<h3>Projektleder: Få AI-forskning til at virke i danske virksomheder - DTU Compute</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8389">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-23</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>Senior Downstream Engineer for a World-Class Pilot Plant - BRIGHT</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8395">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-24" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Coupled Processes for Underground Storage Applications - DTU Offshore</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8394">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-24</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Student Assistants for X-ray CT Data and DANFIX Activities at 3DIM - DTU Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8390">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Bayesian Networks for Environmental Health Research - DTU Food</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8393">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>DTU søger nyt bestyrelsesmedlem</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8391">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-22" style="margin-bottom: 1.5em;">
+<h3>Academic employee for the project ArcFresh – Freshwater flux in and out of the Arctic Ocean - DTU Space</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8358">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Projektleder - DTU Campus Service</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8375">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>Postdocs in Experimental Quantum Optical Information - DTU Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8374">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-18" style="margin-bottom: 1.5em;">
+<h3>Laborantpraktikant - DTU Nanolab</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8377">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-15" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Computational Controversy Mapping and STS - DTU Management</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8378">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Arctic fjord food webs under glacial retreat - DTU Aqua</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8380">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>Institutdirektør til DTU Bioengineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8381">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Junior projekt- og partnerskabskoordinator indenfor den grønne omstilling - Afd. for Forskning, Rådgivning og Innovation</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8382">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-04" style="margin-bottom: 1.5em;">
+<h3>Laboratory technician at DTU Metabolomics Core - DTU Bioengineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8346">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-26" style="margin-bottom: 1.5em;">
+<h3>Projektadministratorer til projektstyring og økonomi - DTU Campus Service</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8356">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Lecturer/Professor" data-deadline="2026-10-28" style="margin-bottom: 1.5em;">
+<h3>Professor in Computational Solid-State Quantum Physics - DTU Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8359">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Lecturer/Professor" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>Professor of Global Value Chains for Green Technologies - DTU Wind</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8361">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Lecturer/Professor" data-deadline="2026-10-22" style="margin-bottom: 1.5em;">
+<h3>DTU Tenure Track Assistant Professor or Associate Professor in Digital Transformation and Sustainable Project Delivery - DTU Engineering Technology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8362">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-28" style="margin-bottom: 1.5em;">
+<h3>BMS-tekniker - DTU Campus Service</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8366">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Lecturer/Professor" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>Full Professor (chair) in Climate and Environmental Economics - DTU Management</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8364">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-10" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Coastal Engineering (Wave-Vegetation Interaction) - DTU Construct</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8368">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-28" style="margin-bottom: 1.5em;">
+<h3>Student Assistant - DTU Food</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8370">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-22" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Two-Phase Turbomachinery for Advanced Organic Rankine Cycle Systems - DTU Construct</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8369">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Lecturer/Professor" data-deadline="2026-11-06" style="margin-bottom: 1.5em;">
+<h3>Professor in Sustainable Food Processing - DTU Food</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8371">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Lecturer/Professor" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Professor in Statistics - DTU Compute</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8372">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Moiré and Patterned 2D Materials for Bandgap Engineering - DTU Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8353">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-06" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in theoretical chemistry, “Towards quantum-enhanced computational algorithms for discovering sustainable energy materials” - DTU Chemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8347">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-20" style="margin-bottom: 1.5em;">
+<h3>Project Manager - Development of Wastewater Treatment and Resource Recovery Technologies - DTU Sustain</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8351">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-03" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Reality Capture for Digital Twinning of Built Structures - DTU Compute</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8355">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-03" style="margin-bottom: 1.5em;">
+<h3>Postdoc in AI-driven design of environment-responsive antibodies and nanobodies - DTU Bioengineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8357">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Entangled Plasmon Spectroscopy - DTU Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8354">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Antifungal Resistance at the Food–Environment Interface - DTU Food</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8338">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Cyber-Security and Cyber-Deception - DTU Compute</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8336">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-23" style="margin-bottom: 1.5em;">
+<h3>Parttime Tech Entrepreneur in Residence - DTU Space</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8339">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-23</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-29" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in Fungal Immunology - DTU Health Tech</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8176">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-12" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Satellite Glaciology - DTU Space</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8323">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-12</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-25" style="margin-bottom: 1.5em;">
+<h3>Institutdirektør til DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8326">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-12-04" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship on Data-driven Design and Analysis of Architected Materials - DTU Engineering Technology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8327">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-26" style="margin-bottom: 1.5em;">
+<h3>Specialist laboratory technician - DTU Food</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8328">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-25" style="margin-bottom: 1.5em;">
+<h3>Student Assistant with an interest in science and international collaboration - DTU Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8332">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Postdoc position for Investigating the Non-Scalable Quantum Size Regime in Catalysis - DTU Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8316">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Large Language Models and Agentic AI for Pathogen Analysis - DTU Food</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8318">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>Administrations- og økonomikoordinator - Danish Data Science Academy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8319">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-08" style="margin-bottom: 1.5em;">
+<h3>Kommunikationsmedarbejder til gymnasietilbud og information om DTU&#x27;s ingeniøruddannelser – Afd. for Kommunikation og Medier (vikariat)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8322">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-08" style="margin-bottom: 1.5em;">
+<h3>Eventkoordinatorelev - DTU Skylab</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8270">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Silicon Optomechanics and Light-Matter Interaction at the Deep Nanoscale - DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8303">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Quantum Optical Measurements of Extreme Light-Matter Interaction - DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8304">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Silicon Quantum Electrodynamics at the Deep Nanoscale - DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8305">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-22" style="margin-bottom: 1.5em;">
+<h3>Marketing- og kommunikationsansvarlig (barselsvikariat) (Space Ventures Denmark) - DTU Space</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8302">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Quantum Photovoltaics in Twisted 2D Materials - DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8308">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in High-Speed Hyperspectral and Super-Resolution Terahertz Imaging - DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8309">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Synthetic Biology of Actinobacteria, producers of agriculturally relevant metabolites - BRIGHT</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8312">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-25" style="margin-bottom: 1.5em;">
+<h3>Postdoc in High-Speed Nonlinear Terahertz Imaging - DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8287">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Lecturer/Professor" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Two DTU Tenure Track Assistant Professors in Theory and Freestanding Oxide Membranes for Energy Applications - DTU Energy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8290">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Nanostructured 2D Materials and van der Waals Heterostructures for Advanced Optoelectronics - DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8296">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>Laborantpraktikant til molekylærbiologi, fysiologi og histologi hos DTU Aqua (Lyngby)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8298">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Sustainable Indoor Solar Cells for Ambient Light Energy Harvesting in IoT Applications - DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8281">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-06" style="margin-bottom: 1.5em;">
+<h3>Laborantpraktikant på DTU Energi</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8280">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-12-04" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Decision Modeling for Health Policy - DTU Management</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8285">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-20" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Microbial Food Engineering - BRIGHT</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8256">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-10-20" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Microbial Food Engineering - BRIGHT</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8260">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-25" style="margin-bottom: 1.5em;">
+<h3>Evalueringsmedarbejdere til uddannelsesudvikling - Afd. for Uddannelse og Studerende</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8267">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-20" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in sustainable food fermentation and ingredient prototyping - BRIGHT</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8255">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-11-29" style="margin-bottom: 1.5em;">
+<h3>Økonomielever - Afd. for Økonomi og Regnskab</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8261">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-16" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Technology-Enabled Urban Logistics, Curbside Management and Sustainable Urban Planning - DTU Engineering Technology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8249">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in small-scale coastal fishing methods - DTU Aqua</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8254">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Entrepreneurship and Innovation for Regenerative Food Systems - DTU Entrepreneurship</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8232">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-09" style="margin-bottom: 1.5em;">
+<h3>Postdoc in nanoscale quantum imaging with scanning NV magnetometry - DTU Energy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8227">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Integrating in-line Vision Technology and AI for Improved Concrete Production - DTU Construct</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8231">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-23" style="margin-bottom: 1.5em;">
+<h3>Postdoc in the molecular mechanisms and evolution of fungal antimicrobial resistance - DTU Bioengineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8239">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-23</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-15" style="margin-bottom: 1.5em;">
+<h3>PhD Scholarships in Engineering of Quantum Light Sources and System Architecture for Photonic Quantum Computing - DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8218">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Lecturer/Professor" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Associate Professor or DTU Tenure Track Assistant Professor in Sustainable Travel Behaviour - DTU Management</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8215">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-06" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Mathematical Modeling for Health Policy - DTU Management</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8208">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-10-26" style="margin-bottom: 1.5em;">
+<h3>Want to help rethink the foundation of the internet? Become a PhD student at DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8192">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Other" data-deadline="2026-10-25" style="margin-bottom: 1.5em;">
+<h3>Process Specialist for E-beam and UV Lithography - DTU Nanolab</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8194">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Public Administration; AI &amp; Citizen Engagement - DTU Management</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8188">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Lecturer/Professor" data-deadline="2027-01-10" style="margin-bottom: 1.5em;">
+<h3>Associate Professor or DTU Tenure Track Assistant Professor in High-Performance Computing - DTU Compute</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8172">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2027-01-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>PhD Scholarship in Natural Product Chemistry - DTU Bioengineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8134">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Engineering Leadership in a Changing World - DTU Management</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8141">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Marie Skłodowska-Curie PhD fellowship in Learning and Optimization Algorithms for Carbon-Aware Datacenter Fleets - DTU Compute</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8088">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>PhD Scholarship in Development of Cement-Free Living Building Materials for Sustainable Construction - DTU Construct</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8087">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in AI-Driven Optimization of Optical Links based on Nano-Lasers - DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8100">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-22" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Probabilistic Methods for Sequential Decision-Making - DTU Compute</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8078">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>PhD in gas photonics - DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/8024">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>Postdoc in gas photonics - DTU Electro</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7995">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Postdoc in software systems integration, modeling, and simulation for sustainable datacenter fleets - DTU Compute</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7991">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-15" style="margin-bottom: 1.5em;">
+<h3>PhD Scholarship in Sustainable Supply Chain Management and Organization - DTU Management</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7941">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>PhD Student in Computational Molecular Design - DTU Chemical Engineering</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7895">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>PhD Scholarships in “live” electron microscopy in catalysis at the atomic-scale - DTU Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7868">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="Postdoc/Researcher" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>Postdoc in “live” electron microscopy in catalysis at the atomic-scale - DTU Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7870">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>PhD scholarship in Self-Adaptive AI Systems and Embedded Intelligence - DTU Compute</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7807">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="DTU" data-type="PhD" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>PhD position in Digital Payments and Critical Infrastructure - DTU Management</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://efzu.fa.em2.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_2001/job/7791">View job posting</a></li>
+  <li><strong>University:</strong> DTU</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

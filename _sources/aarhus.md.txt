@@ -1,0 +1,866 @@
+# Aarhus University
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 65</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-23" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Mass Spectrometry and Proteomics Technology Development</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoctoral-researcher-in-mass-spectrometry-and-proteomics-technology-development">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-23</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-03" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Translational Neuropsychiatry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-in-translational-neuropsychiatry">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-12-14" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor (tenure track)/Associate Professor in Computational end Generative Design</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/assistant-professor-tenure-track-associate-professor-in-computational-end-generative-design">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-12-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-12-14" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor (tenure track)/Associate Professor in Structural Reliability, Risk and Resilience</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/assistant-professor-tenure-track-associate-professor-in-structural-reliability-risk-and-resilience">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-12-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-11-15" style="margin-bottom: 1.5em;">
+<h3>Student Assistant as Administrative Assistant in Project Management Office at AU Herning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/student-assistant-as-administrative-assistant-in-project-management-office-at-au-herning-1">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-10-29" style="margin-bottom: 1.5em;">
+<h3>Student Assistant within Cognitive Neuroscience and Computational Psychiatry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/student-assistant-within-cognitive-neuroscience-and-computational-psychiatry">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-11-02" style="margin-bottom: 1.5em;">
+<h3>Four-year fixed term academic employee position in bioacoustics and signal processing</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/four-year-fixed-term-academic-employee-position-in-bioacoustics-and-signal-processing">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-09" style="margin-bottom: 1.5em;">
+<h3>​​Postdoc position on hybrid testing for multibody dynamical systems​</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-position-on-hybrid-testing-for-multibody-dynamical-systems">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-29" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in environmental microbial ecology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoctoral-researcher-in-environmental-microbial-ecology">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-11-12" style="margin-bottom: 1.5em;">
+<h3>Research Assistant (12 months, full-time) in the project “Digitalisation and political behaviour in Africa” at Aarhus University</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/research-assistant-12-months-full-time-in-the-project-digitalisation-and-political-behaviour-in-africa-at-aarhus-university">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-12</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-12-03" style="margin-bottom: 1.5em;">
+<h3>Tenure track assistant professor/Associate professor positions in Veterinary medicine</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/tenure-track-assistant-professor-associate-professor-positions-in-veternary-medicine">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-12-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-12-08" style="margin-bottom: 1.5em;">
+<h3>Tenure track Assistant professor/Associate professor Position in Material Engineering and Manufacturing</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/tenure-track-assistant-professor-associate-professor-position-in-materials-science-and-engineering">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-12-08</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Student Assistant for the International Recruitment team</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/student-assistant-for-the-international-recruitment-team">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-10-28" style="margin-bottom: 1.5em;">
+<h3>Tenure Track Assistant Professor of Advanced Practice Nursing</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/tenure-track-assistant-professor-of-advanced-practice-nursing">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-03" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Remote Sensing of Ecosystem Resilience across Danish Landscapes</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-in-remote-sensing-of-ecosystem-resilience-across-danish-landscapes">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-03" style="margin-bottom: 1.5em;">
+<h3>Postdoc for distributed coordination in swarm robotics for underwater anomaly detection</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-for-distributed-coordination-in-swarm-robotics-for-underwater-anomaly-detection">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>Two-year postdoctoral position in ultrafast dynamics in dielectric nanoparticles</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/two-year-postdoctoral-position-in-ultrafast-dynamics-in-dielectric-nanoparticles">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-11-10" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Environmental Chemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/associate-professor-in-environmental-chemistry">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-03" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in biology (CIFAR – Center of Excellence, Aarhus University)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-position-in-biology-cifar-center-of-excellence-aarhus-university">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Postdoc in RNA function and gene regulation</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-in-rna-function-and-gene-regulation">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-10" style="margin-bottom: 1.5em;">
+<h3>Postdoc in genetics of puberty</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-in-genetics-of-puberty">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-10-26" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in Experimental Virology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/assistant-professor-in-experimental-virology">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-11-09" style="margin-bottom: 1.5em;">
+<h3>Job posting for Student Instructors at Cognitive Science and Linguistics Spring 2027</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/job-posting-for-student-instructors-at-cognitive-science-and-linguistics-spring-2027">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral research in plant regulatory genomics and artificial intelligence</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoctoral-research-in-plant-regulatory-genomics-and-artificial-intelligence">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-10-23" style="margin-bottom: 1.5em;">
+<h3>Postdoc in kidney receptor biology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-in-kidney-receptor-biology-1">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-23</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-11-06" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor in CERN-Related Physics and Detector Development</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/assistant-professor-in-cern-related-physics-and-detector-development">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>Student Assistant at the Center for Hybrid Intelligence (CHI) at Department of Management</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/student-assistant-at-the-center-for-hybrid-intelligence-chi-at-department-of-management">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-10-22" style="margin-bottom: 1.5em;">
+<h3>Vi mangler studentermedhjælpere i De Kirurgiske Forskningslaboratorier på Skejby – er det noget for dig?</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/vi-mangler-studentermedhjaelpere-i-de-kirurgiske-forskningslaboratorier-paa-skejby-er-det-noget-for-dig-1">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-10-29" style="margin-bottom: 1.5em;">
+<h3>Post Doc in plant-derived extracellular vesicles</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/post-doc-in-plant-derived-extracellular-vesicles">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-10-20" style="margin-bottom: 1.5em;">
+<h3>Research Assistant in Integrated Photonics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/research-assistant-in-integrated-photonics-1">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-11-05" style="margin-bottom: 1.5em;">
+<h3>Assistant professor in plant-microbe interactions</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/assistant-professor-in-plant-microbe-interactions">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-11-09" style="margin-bottom: 1.5em;">
+<h3>Project manager for international research projects</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/project-manager-for-international-research-projects">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-09</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-10-28" style="margin-bottom: 1.5em;">
+<h3>Postdoc Position in Laboratory Astrochemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-position-in-laboratory-astrochemistry-1">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-11-05" style="margin-bottom: 1.5em;">
+<h3>Laboratory and field technician/engineer in mechatronics at Land-CRAFT</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/laboratory-and-field-technician-engineer-in-mechatronics-at-land-craft-2">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-10-20" style="margin-bottom: 1.5em;">
+<h3>Student assistant for PFAS-CLEAR and SWIFT projects</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/student-assistant-for-pfas-clear-and-swift-projects">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-10-28" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Reimagining Brainbow for Extracellular Vesicle Bioimaging</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-in-reimagining-brainbow-for-extracellular-vesicle-bioimaging">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="PhD" data-deadline="2026-11-16" style="margin-bottom: 1.5em;">
+<h3>Special Call PhD scholarship on social acceleration and democratic lawmaking</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/special-call-phd-scholarship-on-social-acceleration-and-democratic-lawmaking">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-16</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Post Doc in greenhouse gas monitoring</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/post-doc-in-greenhouse-gas-monitoring">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-11-02" style="margin-bottom: 1.5em;">
+<h3>Academic position as beamline specialist within micro- and nano-focused photoemission spectroscopy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/academic-position-as-beamline-scientist-within-micro-and-nano-focused-photoemission-spectroscopy">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Catalytic N2O Decomposition using Near-ambient Pressure Microscopy and Spectroscopy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-in-catalytic-n2o-decomposition-using-near-ambient-pressure-microscopy-and-spectroscopy">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-11-03" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor of Materials Science &amp; Engineering (up to 4 positions)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/assistant-professor-of-materials-science-engineering-up-to-4-positions">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-05" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in big data analytics in teen substance use at the Centre for Alcohol and Drug Research at Aarhus University in Denmark</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoctoral-position-in-big-data-analytics-in-teen-substance-use-at-the-centre-for-alcohol-and-drug-research-at-aarhus-university-in-denmark">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Research Assistant for evaluating ‘sufficient clinical evidence’ in current regulatory practice of Medical Devices</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/research-assistant-for-evaluating-sufficient-clinical-evidence-in-current-regulatory-practice-of-medical-devices">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-10-25" style="margin-bottom: 1.5em;">
+<h3>Postdoc position in hydrothermal liquefaction of biomass and wastes</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-position-in-hydrothermal-liquefaction-of-biomass-and-wastes">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-11-02" style="margin-bottom: 1.5em;">
+<h3>The Danish School of Education (DPU) at the Faculty of Arts, Aarhus University, invites applications for a position as an associate professor in educational and developmental psychology, commencing on 1 March 2027.</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/the-danish-school-of-education-dpu-at-the-faculty-of-arts-aarhus-university-invites-applications-for-a-position-as-an-associate-professor-in-educational-and-developmental-psychology-commencing-on-1-march-2027">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>Associate Professorships in Economics and Business Economics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/associate-professorships-in-economics-and-business-economics-7">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="PhD" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>PhD special call: PhD position in AI and Workplace Inclusion – MSCA Doctoral Network EMANAIRE</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/phd-special-call-phd-position-in-ai-and-workplace-inclusion-msca-doctoral-network-emanaire">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-10-20" style="margin-bottom: 1.5em;">
+<h3>Administrative Research Theme Coordinator</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/administrative-research-theme-coordinator">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in biodiversity forecasting, vegetation dynamics and rewilding</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoctoral-researcher-in-biodiversity-forecasting-vegetation-dynamics-and-rewilding">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-11-05" style="margin-bottom: 1.5em;">
+<h3>Lab Engineer in Mechanical Engineering (re-advertisement)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/lab-engineer-in-mechanical-engineering-1">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-05</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-10-31" style="margin-bottom: 1.5em;">
+<h3>2-year Postdoc position in soil sensing</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/2-year-postdoc-position-in-soil-sensing">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>Postdocs for new European research project at the Department of Electrical and Computer Engineering, Aarhus University</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdocs-for-new-european-research-project-at-the-department-of-electrical-and-computer-engineering-aarhus-university-5">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-10-26" style="margin-bottom: 1.5em;">
+<h3>Postdoc in cardiorenal metabolism</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-in-cardiorenal-metabolism-1">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-10-22" style="margin-bottom: 1.5em;">
+<h3>Post doc. position in Secure Collaboration on top of the Digital Twin as a Service Platform</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/post-doc-position-in-secure-collaboration-on-top-of-the-digital-twin-as-a-service-platform">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Other" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Videnskabelig assistent til kvalitativ sundhedsforskning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/videnskabelig-assistent-til-kvalitativ-sundhedsforskning">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-10-21" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position for the project Human AI Collaboration: Imaginaries, Interventions, Interfaces</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoctoral-position-for-the-project-human-ai-collaboration-imaginaries-interventions-interfaces">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>Researcher (Tenure Track) in Marine Ecosystem Modelling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/researcher-tenure-track-in-marine-ecosystem-modelling-1">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-10-25" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Position in Animal Welfare Risks of Feeding Red Seaweed to Dairy Cows</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoctoral-position-in-animal-welfare-risks-of-feeding-red-seaweed-to-dairy-cows">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-10-26" style="margin-bottom: 1.5em;">
+<h3>Assistant Professors in Analytic Number Theory, Automorphic Forms and Representation Theory</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/assistant-professors-in-analytic-number-theory-automorphic-forms-and-representation-theory">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-10-30" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Researcher in Environmental Genomics and Pollinator Health</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoctoral-researcher-in-environmental-genomics-and-pollinator-health">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-10-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>PostDoc in aerobiological modelling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoc-in-aerobiological-modelling">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Postdoc/Researcher" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in the SpeedyFermHub research project</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/postdoctoral-position-in-the-speedyfermhub-research-project">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-10-20" style="margin-bottom: 1.5em;">
+<h3>Assistant / Associate Professor at the Department of Public Health</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/assistant-associate-professor-at-the-department-of-public-health">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-10-20" style="margin-bottom: 1.5em;">
+<h3>Associate Professor at the Department of Public Health</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/associate-professor-at-the-department-of-public-health">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-10-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Denmark" data-university="Aarhus University" data-type="Lecturer/Professor" data-deadline="2026-11-01" style="margin-bottom: 1.5em;">
+<h3>Assistant Professor (Tenure Track)/Associate Professor in French and Francophone Communication</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://international.au.dk/about/profile/vacant-positions/job/assistant-professor-tenure-track-associate-professor-in-french-and-francophone-communication">View job posting</a></li>
+  <li><strong>University:</strong> Aarhus University</li>
+  <li><strong>Country:</strong> Denmark</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-01</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>
