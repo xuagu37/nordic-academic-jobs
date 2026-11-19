@@ -1,0 +1,1046 @@
+# NTNU
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 80</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-19" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Colour and Image Enhancement for Wireless Capsule Endoscopy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310592/phd-candidate-in-colour-and-image-enhancement-for-wireless-capsule-endoscopy">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-19</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-19" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Cybersecurity Challenges in Maritime AI</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309914/phd-candidate-in-cybersecurity-challenges-in-maritime-ai">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-19</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-19" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Explainable AI (xAI) for Capsule Endoscopy</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310379/phd-candidate-in-explainable-ai-xai-for-capsule-endoscopy">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-19</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-19" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Multispectral Wireless Capsule Endoscopy (WCE)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310363/phd-candidate-in-multispectral-wireless-capsule-endoscopy-wce">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-19</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Postdoc/Researcher" data-deadline="2026-11-19" style="margin-bottom: 1.5em;">
+<h3>Researcher in Low Transformation Temperature Alloys for Additive Manufacturing</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311289/researcher-in-low-transformation-temperature-alloys-for-additive-manufacturing">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-19</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-19" style="margin-bottom: 1.5em;">
+<h3>Rådgiver økonomi - virksomhetskontroller</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311282/raadgiver-oekonomi-virksomhetskontroller">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-19</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>Cryptology and Social Life</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311003/cryptology-and-social-life">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>Konsulent - vakt og service</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310293/konsulent-vakt-og-service">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>Managing Drone Threats to Critical Infrastructure</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310711/managing-drone-threats-to-critical-infrastructure">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Consequences of Drone Attacks</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311056/phd-candidate-in-consequences-of-drone-attacks">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Drone Detection and Interception Solutions</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310944/phd-candidate-in-drone-detection-and-interception-solutions">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Information Systems</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310981/phd-candidate-in-information-systems">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Machine Learning for Temporal and Spatiotemporal Data</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310929/phd-candidate-in-machine-learning-for-temporal-and-spatiotemporal-data">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Microbiology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310249/phd-candidate-in-microbiology">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Optimization and Decision Support for Resilient Transport Systems</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310777/phd-candidate-in-optimization-and-decision-support-for-resilient-transport-systems">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Privacy-Preserving Digital Wallets</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310645/phd-candidate-in-privacy-preserving-digital-wallets">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Quantum-safe verifiable credentials</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310701/phd-candidate-in-quantum-safe-verifiable-credentials">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in molecular cell biology and microbiology at IKOM</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310064/phd-candidate-in-molecular-cell-biology-and-microbiology-at-ikom">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in molecular medical microbiology at IKOM</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310150/phd-candidate-in-molecular-medical-microbiology-at-ikom">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate on Impacts of Interdependent Multi-Hazards on Transport Systems</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310634/phd-candidate-on-impacts-of-interdependent-multi-hazards-on-transport-systems">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Postdoc/Researcher" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>PhD Research Fellow in Science and Technology Studies (STS)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310875/phd-research-fellow-in-science-and-technology-studies-sts">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>PhD position in Sociology: Security culture, trust and society in the age of digital identity</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310812/phd-position-in-sociology-security-culture-trust-and-society-in-the-age-of-digital-identity">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>Preparedness and Response to AMR, the silent pandemic</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309380/preparedness-and-response-to-amr-the-silent-pandemic">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>Stipendiat i sosiologi: Makt, styring, og politisk økonomi i kampen mot antibiotikaresistens</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310898/stipendiat-i-sosiologi-makt-styring-og-politisk-oekonomi-i-kampen-mot-antibiotikaresistens">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>Synergizing Transport Resilience, Infrastructure and Defense in Extremes (STRIDE)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310727/synergizing-transport-resilience-infrastructure-and-defense-in-extremes-stride">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>Modelling Risk and Vulnerability in the supply chains for drone detection and interception systems</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310779/modelling-risk-and-vulnerability-in-the-supply-chains-for-drone-detection-and-interception-systems">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-20" style="margin-bottom: 1.5em;">
+<h3>Organizing and decision-making in drone operations</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310780/organizing-and-decision-making-in-drone-operations">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-20</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Lecturer/Professor" data-deadline="2026-11-21" style="margin-bottom: 1.5em;">
+<h3>Professor/førsteamanuensis i medisin (barnesykdommer/pediatri)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310207/professor-foersteamanuensis-i-medisin-barnesykdommer-pediatri">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-21</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Lecturer/Professor" data-deadline="2026-11-22" style="margin-bottom: 1.5em;">
+<h3>Associate Professor in Analysis</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310118/associate-professor-in-analysis">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-22" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in AI for Accelerated Concept and Tender-Phase Ship Design</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311111/phd-candidate-in-ai-for-accelerated-concept-and-tender-phase-ship-design">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Postdoc/Researcher" data-deadline="2026-11-22" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Genetic Epidemiology, focusing on maternal and child health</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310317/postdoctoral-fellow-in-genetic-epidemiology-focusing-on-maternal-and-child-health">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-22" style="margin-bottom: 1.5em;">
+<h3>Stipendiat tilknyttet Team Saepmie</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310871/stipendiat-tilknyttet-team-saepmie">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-22</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-23" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Risk-Based Power System Operation and Utilisation of Transformer Capacity</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/308793/phd-candidate-in-risk-based-power-system-operation-and-utilisation-of-transformer-capacity">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-23</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-23" style="margin-bottom: 1.5em;">
+<h3>PhD positions in testing and modelling of lithium-ion batteries in operational and abuse scenarios</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310845/phd-positions-in-testing-and-modelling-of-lithium-ion-batteries-in-operational-and-abuse-scenarios">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-23</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-23" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor i helsevitenskap (bevegelsesvitenskap)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311002/universitetslektor-i-helsevitenskap-bevegelsesvitenskap">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-23</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-24" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Sustainable and Cement-Free Marine Materials</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310855/phd-candidate-in-sustainable-and-cement-free-marine-materials">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-24</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-25" style="margin-bottom: 1.5em;">
+<h3>PhD position in marine biology in the EU project “Remedies”</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309803/phd-position-in-marine-biology-in-the-eu-project-remedies">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Lecturer/Professor" data-deadline="2026-11-25" style="margin-bottom: 1.5em;">
+<h3>Professor or Associate Professor in Supply Chain Management</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309070/professor-or-associate-professor-in-supply-chain-management">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-26" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Machine Learning Approaches to Conservation Condition Needs of Historic Buildings</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311283/phd-candidate-in-machine-learning-approaches-to-conservation-condition-needs-of-historic-buildings">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-26</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-27" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in AI-driven smart material characterisation and modelling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310453/phd-candidate-in-ai-driven-smart-material-characterisation-and-modelling">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-27" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Interface-resolved CFD for boiling and condensation on engineered surfaces</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310799/phd-candidate-in-interface-resolved-cfd-for-boiling-and-condensation-on-engineered-surfaces">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-27" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in drainage-enhanced flow condensation in micro-structured surfaces</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310693/phd-candidate-in-drainage-enhanced-flow-condensation-in-micro-structured-surfaces">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-27</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-28" style="margin-bottom: 1.5em;">
+<h3>Stipendiat i rehabilitering etter hjerneslag</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311254/stipendiat-i-rehabilitering-etter-hjerneslag">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-29" style="margin-bottom: 1.5em;">
+<h3>Førsteamanuensis / universitetslektor i fysikk</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309940/foersteamanuensis-universitetslektor-i-fysikk">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Førsteamanuensis II / universitetslektor II i medisin (barne- og ungdomspsykiatri) i 10% stilling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309741/foersteamanuensis-ii-universitetslektor-ii-i-medisin-barne-og-ungdomspsykiatri-i-10-stilling">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Førsteamanuensis II / universitetslektor II i medisin (fysikalsk medisin og rehabilitering)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309731/foersteamanuensis-ii-universitetslektor-ii-i-medisin-fysikalsk-medisin-og-rehabilitering">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Førsteamanuensis II / universitetslektor II i medisin (hjerneslag / geriatri) i 10% stilling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309743/foersteamanuensis-ii-universitetslektor-ii-i-medisin-hjerneslag-geriatri-i-10-stilling">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Førsteamanuensis II / universitetslektor II i medisin (nevrologi) i 10% stilling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309479/foersteamanuensis-ii-universitetslektor-ii-i-medisin-nevrologi-i-10-stilling">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Førsteamanuensis II / universitetslektor II i medisin (voksenpsykiatri) i 10% stilling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309733/foersteamanuensis-ii-universitetslektor-ii-i-medisin-voksenpsykiatri-i-10-stilling">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Førsteamanuensis II / universitetslektor ll i medisin (allmennmedisin) i 20% stilling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309470/foersteamanuensis-ii-universitetslektor-ll-i-medisin-allmennmedisin-i-20-stilling">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Multi-Robot Informative Planning for Coastal Monitoring</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311117/phd-candidate-in-multi-robot-informative-planning-for-coastal-monitoring">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Psychology of Artificial Intelligence</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311353/phd-candidate-in-psychology-of-artificial-intelligence">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Resilient Service Continuity Across Mobile Networks</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310630/phd-candidate-in-resilient-service-continuity-across-mobile-networks">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Postdoc/Researcher" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Researcher in Pore Scale Reservoir Engineering - IV-82/26</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311260/researcher-in-pore-scale-reservoir-engineering-iv-82-26">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor ll i medisin (medisinsk biokjemi) i 20% stilling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309476/universitetslektor-ll-i-medisin-medisinsk-biokjemi-i-20-stilling">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor ll i medisin (øre-nese-hals) i 10% stilling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309459/universitetslektor-ll-i-medisin-oere-nese-hals-i-10-stilling">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor ll i medisin (øye) i 10% stilling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/309381/universitetslektor-ll-i-medisin-oeye-i-10-stilling">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Intelligent Navigation and Risk Based Route Planning</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311584/phd-candidate-in-intelligent-navigation-and-risk-based-route-planning">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Materials Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311345/phd-candidate-in-materials-physics">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>PhD Position in Geography with focus on Post-Fossil Fuel Transitions in Petroleum-Producing Nations</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310604/phd-position-in-geography-with-focus-on-post-fossil-fuel-transitions-in-petroleum-producing-nations">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>Seniorrådgiver karriere- og kompetanseutvikling</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310702/seniorraadgiver-karriere-og-kompetanseutvikling">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>Stipendiat i musikk</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/308444/stipendiat-i-musikk">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-12-02" style="margin-bottom: 1.5em;">
+<h3>Seniorkonsulent innen lønn HR</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311831/seniorkonsulent-innen-loenn-hr">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-12-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-12-02" style="margin-bottom: 1.5em;">
+<h3>Seniorkonsulent ved seksjon for læringsstøtte og digitale tjenester</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311704/seniorkonsulent-ved-seksjon-for-laeringsstoette-og-digitale-tjenester">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-12-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-12-04" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Machine Learning enhanced FSI Modelling of Multi-modular Floating Structures</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/312079/phd-candidate-in-machine-learning-enhanced-fsi-modelling-of-multi-modular-floating-structures">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Lecturer/Professor" data-deadline="2026-12-04" style="margin-bottom: 1.5em;">
+<h3>Professor/Associate Professor in Hydropower Technologies</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310059/professor-associate-professor-in-hydropower-technologies">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-12-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-12-06" style="margin-bottom: 1.5em;">
+<h3>Førsteamanuensis innen bedriftsøkonomi med spesialisering i finans</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311343/foersteamanuensis-innen-bedriftsoekonomi-med-spesialisering-i-finans">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-12-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-12-06" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor i helsevitenskap (radiografi)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310750/universitetslektor-i-helsevitenskap-radiografi">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-12-06</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-12-07" style="margin-bottom: 1.5em;">
+<h3>Universitetslektor i matematikkdidaktikk ved Matematikksenteret</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311161/universitetslektor-i-matematikkdidaktikk-ved-matematikksenteret">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-12-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Postdoc/Researcher" data-deadline="2026-12-10" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellowships in Mathematical Sciences</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311311/postdoctoral-fellowships-in-mathematical-sciences">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-10</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-12-11" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate - Hydrogen and Industrial Decarbonization Pathways</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311174/phd-candidate-hydrogen-and-industrial-decarbonization-pathways">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-12-13" style="margin-bottom: 1.5em;">
+<h3>PhD on modelling thermal cracking of oxides to reuse aluminium powder in 3D printing</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311758/phd-on-modelling-thermal-cracking-of-oxides-to-reuse-aluminium-powder-in-3d-printing">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-13</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-12-13" style="margin-bottom: 1.5em;">
+<h3>Universitetslærer/universitetslektor innen medisinsk biokjemi</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310335/universitetslaerer-universitetslektor-innen-medisinsk-biokjemi">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-12-13</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-12-15" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Marine Cybernetics on AI-based Energy and Battery Management for Ships and Ports</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311698/phd-candidate-in-marine-cybernetics-on-ai-based-energy-and-battery-management-for-ships-and-ports">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-12-15" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate within thermal cycling of compact steam cycles</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311478/phd-candidate-within-thermal-cycling-of-compact-steam-cycles">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-15</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Other" data-deadline="2026-12-31" style="margin-bottom: 1.5em;">
+<h3>HR-konsulent</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310456/hr-konsulent">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2026-12-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2026-12-31" style="margin-bottom: 1.5em;">
+<h3>PhD candidate in Artistic Research – Digital Environments</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/310802/phd-candidate-in-artistic-research-digital-environments">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="Postdoc/Researcher" data-deadline="2026-12-31" style="margin-bottom: 1.5em;">
+<h3>Researcher in Biometric Security and Anti-Fraud Technologies</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311632/researcher-in-biometric-security-and-anti-fraud-technologies">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-31</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2027-01-03" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Integrative Global Change Biology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311988/phd-candidate-in-integrative-global-change-biology">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2027-01-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Norway" data-university="NTNU" data-type="PhD" data-deadline="2027-01-31" style="margin-bottom: 1.5em;">
+<h3>PhD Candidate in Multimodal Sensor Data Fusion for Cultural Heritage</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://www.jobbnorge.no/ledige-stillinger/stilling/311998/phd-candidate-in-multimodal-sensor-data-fusion-for-cultural-heritage">View job posting</a></li>
+  <li><strong>University:</strong> NTNU</li>
+  <li><strong>Country:</strong> Norway</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2027-01-31</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>

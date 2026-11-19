@@ -1,0 +1,434 @@
+# Gothenburg University
+<p style="font-size: 1.2em; font-weight: bold;">Total jobs: 29</p>
+
+
+<div id="filters" class="job-filters">
+  <div class="filter-group">
+    <label for="filterType">Job Type</label>
+    <select id="filterType">
+      <option value="">Show All</option>
+      <option value="PhD">PhD</option>
+      <option value="Postdoc/Researcher">Postdoc/Researcher</option>
+      <option value="Lecturer/Professor">Lecturer/Professor</option>
+      <option value="Research Engineer">Research Engineer</option>
+      <option value="Other">Other</option>
+    </select>
+  </div>
+
+  <div class="filter-group filter-search">
+    <label for="jobFilter">Search</label>
+    <input type="text" id="jobFilter" placeholder="Search jobs...">
+  </div>
+</div>
+
+<div id="jobList">
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-12-07" style="margin-bottom: 1.5em;">
+<h3>Researcher in Meteorology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=42023">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-12-11" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in Medical Radiation Sciences</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=42008">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-12-04" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in ERC-funded project THINGSTIGATE specialising in digital objects in socially engaged art</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41993">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Other" data-deadline="2027-02-01" style="margin-bottom: 1.5em;">
+<h3>Upp till sex doktorandplatser i nationalekonomi</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41903">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Other</li>
+  <li><strong>Deadline:</strong> 2027-02-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-12-07" style="margin-bottom: 1.5em;">
+<h3>Researcher</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41984">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-07</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="PhD" data-deadline="2026-12-14" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Experimental Molecular Physics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41922">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-14</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2027-01-11" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in Political Science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41981">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2027-01-11</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-12-02" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral researcher in Medicinal Chemistry</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41965">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Research Engineer" data-deadline="2026-12-02" style="margin-bottom: 1.5em;">
+<h3>Principal Research Engineer in Biophysics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41970">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Research Engineer</li>
+  <li><strong>Deadline:</strong> 2026-12-02</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2027-01-04" style="margin-bottom: 1.5em;">
+<h3>Postdoc in Deep-Sea Biogeochemistry and Environmental Assessment</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41957">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2027-01-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-12-03" style="margin-bottom: 1.5em;">
+<h3>Researcher in biomaterials</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41954">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-03</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="PhD" data-deadline="2026-12-04" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Spintronics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41947">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>Researcher</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41937">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-12-01" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral position in marine population genomics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41934">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-12-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2027-01-04" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in Political Science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41928">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2027-01-04</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Researcher</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41915">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-11-24" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in microbiome and metabolism</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41851">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-24</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="PhD" data-deadline="2027-02-01" style="margin-bottom: 1.5em;">
+<h3>Up to Six PhD Positions in Economics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41843">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2027-02-01</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="PhD" data-deadline="2026-12-18" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in Natural Science, specialising in Physical Geography: Remote Sensing of Arctic Landscape Change</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41894">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-12-18</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-11-25" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in glycobiology</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41893">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-25</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="PhD" data-deadline="2027-01-29" style="margin-bottom: 1.5em;">
+<h3>Position for collaborative doctoral students with a teaching degree, multiple subjects</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41854">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2027-01-29</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="PhD" data-deadline="2027-01-28" style="margin-bottom: 1.5em;">
+<h3>Doctoral student position in Social Work with a focus on Crime Prevention (BRiC)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41845">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2027-01-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Lecturer/Professor" data-deadline="2026-11-30" style="margin-bottom: 1.5em;">
+<h3>Associate Senior Lecturer in Botany, specialising in vascular plant systematics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41863">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Lecturer/Professor</li>
+  <li><strong>Deadline:</strong> 2026-11-30</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="PhD" data-deadline="2027-01-28" style="margin-bottom: 1.5em;">
+<h3>Doctoral student position in Social Work</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41546">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2027-01-28</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="PhD" data-deadline="2026-11-19" style="margin-bottom: 1.5em;">
+<h3>Doctoral student in biology with focus on tropical forest ecology and carbon dynamics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41811">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> PhD</li>
+  <li><strong>Deadline:</strong> 2026-11-19</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-11-19" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in Tropical Forest Ecology, Terrestrial Laser Scanning and Forest Biomass Dynamics</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41806">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-19</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-11-19" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Political Science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41716">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-19</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-11-19" style="margin-bottom: 1.5em;">
+<h3>Postdoctoral Fellow in Political Science</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41711">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-19</li>
+</ul>
+
+</div>
+
+<div class="job" data-country="Sweden" data-university="Gothenburg University" data-type="Postdoc/Researcher" data-deadline="2026-11-19" style="margin-bottom: 1.5em;">
+<h3>Postdoctor in Political Science: Transitional Justice, Victimhood, and Survey Experiments (BIG PEACE)</h3>
+<ul>
+  <li><strong>Link:</strong> <a href="https://web103.reachmee.com/ext/I005/1035/job?site=7&amp;lang=UK&amp;validator=9b89bead79bb7258ad55c8d75228e5b7&amp;job_id=41688">View job posting</a></li>
+  <li><strong>University:</strong> Gothenburg University</li>
+  <li><strong>Country:</strong> Sweden</li>
+  <li><strong>Type:</strong> Postdoc/Researcher</li>
+  <li><strong>Deadline:</strong> 2026-11-19</li>
+</ul>
+</div></div>
+
+<script>
+document.addEventListener("DOMContentLoaded", function () {
+  const typeSelect = document.getElementById('filterType');
+  const textInput = document.getElementById('jobFilter');
+  const jobBlocks = document.querySelectorAll('.job');
+
+  // Save original HTML so we can restore before highlighting
+  jobBlocks.forEach(job => {
+    const titleEl = job.querySelector('h3');
+    if (titleEl) {
+        titleEl.dataset.originalText = titleEl.textContent;
+    }
+  });
+
+  function escapeRegExp(string) {
+    return string.replace(/[.*+?^${}()|[\]\\]/g, '\\$&');
+  }
+
+  function highlightText(job, query) {
+    const titleEl = job.querySelector('h3');
+    if (!titleEl) return;
+    
+    const original = titleEl.dataset.originalText || titleEl.textContent;
+    titleEl.dataset.originalText = original;
+    
+    if (!query) {
+        titleEl.textContent = original;
+        return;
+    }
+    
+    const safeQuery = escapeRegExp(query);
+    const regex = new RegExp(`(${safeQuery})`, 'gi');
+    
+    titleEl.innerHTML = original.replace(regex, '<mark>$1</mark>');
+  }
+
+  function updateDisplay() {
+    const selectedType = typeSelect.value.toLowerCase();
+    const query = textInput.value.trim().toLowerCase();
+
+    jobBlocks.forEach(job => {
+        
+      const jobType = (job.dataset.type || "").toLowerCase();
+      const titleEl = job.querySelector('h3');
+      const titleText = titleEl ? titleEl.textContent.toLowerCase() : "";
+
+      const matchesType = !selectedType || jobType === selectedType;
+      const matchesQuery = !query || titleText.includes(query);
+
+      if (matchesType && matchesQuery) {
+        job.style.display = '';
+        highlightText(job, query);
+      } else {
+        job.style.display = 'none';
+      }
+    });
+  }
+
+  typeSelect.addEventListener('change', updateDisplay);
+  textInput.addEventListener('input', updateDisplay);
+  updateDisplay();
+});
+</script>
